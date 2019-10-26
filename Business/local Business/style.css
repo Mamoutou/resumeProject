@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+#businessDiv {
+  display: flex;
+  flex-direction: column;
+  background-color: #DCDCDC;
+}
+.businessImage{ 
+  height:75px;
+} 
+
+#Div1 {
+  display: flex;
+  //flex-direction: column;
+  background-color: #F0F8FF;;
+  // width:100%;
+  margin-bottom:5px;
+  padding: 5px;
+}
+#Div2 {
+   width: 100%;
+}
+
+#Div4 {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 2px;
+}

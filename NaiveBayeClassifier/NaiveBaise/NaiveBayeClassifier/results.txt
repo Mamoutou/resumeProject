@@ -1,0 +1,4805 @@
+Preprocesing data...
+Training Naive Bayes classifier on data using the traindata ...............
+	(1) 'a new voyage will fill your life with untold memories'
+	P(Class=0)=1.0 (0/0)
+	P(Class=1)=1.0 (0/0)
+	label_0_probability = 1.0
+	label_1_probability = 1.0
+	Actual label = 1, predicted label = 0
+
+	(2) 'you are on the verge of something big'
+	P(Class=0)=0.5 (0/1)
+	P(Class=1)=1.0 (1/1)
+	label_0_probability = 0.5
+	label_1_probability = 0.0009765625
+	Actual label = 1, predicted label = 0
+
+	(3) 'a pleasant experience is ahead don't pass it by'
+	P(Class=0)=0.3333333333333333 (0/2)
+	P(Class=1)=1.0 (2/2)
+	label_0_probability = 0.3333333333333333
+	label_1_probability = 0.0002140929619238593
+	Actual label = 1, predicted label = 0
+
+	(4) 'a thrilling time is in your immediate future'
+	P(Class=0)=0.25 (0/3)
+	P(Class=1)=1.0 (3/3)
+	label_0_probability = 0.25
+	label_1_probability = 6.960135942790657e-05
+	Actual label = 1, predicted label = 0
+
+	(5) 'a heavy burden is lifted with a phone message or letter'
+	P(Class=0)=0.2 (0/4)
+	P(Class=1)=1.0 (4/4)
+	label_0_probability = 0.2
+	label_1_probability = 1.1529215046068486e-06
+	Actual label = 1, predicted label = 0
+
+	(6) 'you are going to have a pleasant experience'
+	P(Class=0)=0.16666666666666666 (0/5)
+	P(Class=1)=1.0 (5/5)
+	label_0_probability = 0.16666666666666666
+	label_1_probability = 0.0003354430723326756
+	Actual label = 1, predicted label = 0
+
+	(7) 'everywhere you choose to go friendly faces will greet you'
+	P(Class=0)=0.14285714285714285 (0/6)
+	P(Class=1)=1.0 (6/6)
+	label_0_probability = 0.14285714285714285
+	label_1_probability = 4.171173669324323e-08
+	Actual label = 1, predicted label = 0
+
+	(8) 'you will become a great philanthropist in your later years'
+	P(Class=0)=0.125 (0/7)
+	P(Class=1)=1.0 (7/7)
+	label_0_probability = 0.125
+	label_1_probability = 1.5308383877219318e-07
+	Actual label = 1, predicted label = 0
+
+	(9) 'you will attract cultured and artistic people to your home'
+	P(Class=0)=0.1111111111111111 (0/8)
+	P(Class=1)=1.0 (8/8)
+	label_0_probability = 0.1111111111111111
+	label_1_probability = 9.338621103022384e-08
+	Actual label = 1, predicted label = 0
+
+	(10) 'although it feels like a roller coaster now life will calm down'
+	P(Class=0)=0.1 (0/9)
+	P(Class=1)=1.0 (9/9)
+	label_0_probability = 0.1
+	label_1_probability = 1.2976358137884993e-10
+	Actual label = 1, predicted label = 0
+
+	(11) 'happier days are definitely ahead for you struggle has ended'
+	P(Class=0)=0.09090909090909091 (0/10)
+	P(Class=1)=1.0 (10/10)
+	label_0_probability = 0.09090909090909091
+	label_1_probability = 5.5988194284802046e-09
+	Actual label = 1, predicted label = 0
+
+	(12) 'you are going to have a very comfortable old age'
+	P(Class=0)=0.08333333333333333 (0/11)
+	P(Class=1)=1.0 (11/11)
+	label_0_probability = 0.08333333333333333
+	label_1_probability = 4.543959579147323e-07
+	Actual label = 1, predicted label = 0
+
+	(13) 'you will take a chance in something in the near future'
+	P(Class=0)=0.07692307692307693 (0/12)
+	P(Class=1)=1.0 (12/12)
+	label_0_probability = 0.07692307692307693
+	label_1_probability = 4.626117844577796e-08
+	Actual label = 1, predicted label = 0
+
+	(14) 'you may attend a party where strange customs prevail'
+	P(Class=0)=0.07142857142857142 (0/13)
+	P(Class=1)=1.0 (13/13)
+	label_0_probability = 0.07142857142857142
+	label_1_probability = 5.890434863086397e-10
+	Actual label = 1, predicted label = 0
+
+	(15) 'you will always possess a charm and sense of humor that attracts others'
+	P(Class=0)=0.06666666666666667 (0/14)
+	P(Class=1)=1.0 (14/14)
+	label_0_probability = 0.06666666666666667
+	label_1_probability = 1.9653001523252734e-11
+	Actual label = 1, predicted label = 0
+
+	(16) 'good news will be brought to you by mail'
+	P(Class=0)=0.0625 (0/15)
+	P(Class=1)=1.0 (15/15)
+	label_0_probability = 0.0625
+	label_1_probability = 4.816240157034402e-08
+	Actual label = 1, predicted label = 0
+
+	(17) 'good news will come to you from far away'
+	P(Class=0)=0.058823529411764705 (0/16)
+	P(Class=1)=1.0 (16/16)
+	label_0_probability = 0.058823529411764705
+	label_1_probability = 1.1360445970653384e-08
+	Actual label = 1, predicted label = 0
+
+	(18) 'a surprise announcement will free you'
+	P(Class=0)=0.05555555555555555 (0/17)
+	P(Class=1)=1.0 (17/17)
+	label_0_probability = 0.05555555555555555
+	label_1_probability = 6.393077961315266e-07
+	Actual label = 1, predicted label = 0
+
+	(19) 'wealth and honor will come to you soon'
+	P(Class=0)=0.05263157894736842 (0/18)
+	P(Class=1)=1.0 (18/18)
+	label_0_probability = 0.05263157894736842
+	label_1_probability = 7.026754080994282e-08
+	Actual label = 1, predicted label = 0
+
+	(20) 'you will advance socially without effort on your part'
+	P(Class=0)=0.05 (0/19)
+	P(Class=1)=1.0 (19/19)
+	label_0_probability = 0.05
+	label_1_probability = 1.4688354914388451e-09
+	Actual label = 1, predicted label = 0
+
+	(21) 'you will come to realizations in you life that change you forever'
+	P(Class=0)=0.047619047619047616 (0/20)
+	P(Class=1)=1.0 (20/20)
+	label_0_probability = 0.047619047619047616
+	label_1_probability = 1.2977466503083315e-08
+	Actual label = 1, predicted label = 0
+
+	(22) 'be prepared for a sudden needed and happy change in plans'
+	P(Class=0)=0.045454545454545456 (0/21)
+	P(Class=1)=1.0 (21/21)
+	label_0_probability = 0.045454545454545456
+	label_1_probability = 5.799089683292513e-11
+	Actual label = 1, predicted label = 0
+
+	(23) 'all your hard work will soon pay off'
+	P(Class=0)=0.043478260869565216 (0/22)
+	P(Class=1)=1.0 (22/22)
+	label_0_probability = 0.043478260869565216
+	label_1_probability = 3.3159510233270005e-08
+	Actual label = 1, predicted label = 0
+
+	(24) 'you will make a friendship with a very surprising person'
+	P(Class=0)=0.041666666666666664 (0/23)
+	P(Class=1)=1.0 (23/23)
+	label_0_probability = 0.041666666666666664
+	label_1_probability = 1.4276634677694203e-08
+	Actual label = 1, predicted label = 0
+
+	(25) 'a pleasant surprise is in store for you'
+	P(Class=0)=0.04 (0/24)
+	P(Class=1)=1.0 (24/24)
+	label_0_probability = 0.04
+	label_1_probability = 1.3681358172655428e-06
+	Actual label = 1, predicted label = 0
+
+	(26) 'you will never regret the present you live life to its fullest'
+	P(Class=0)=0.038461538461538464 (0/25)
+	P(Class=1)=1.0 (25/25)
+	label_0_probability = 0.038461538461538464
+	label_1_probability = 7.589046890300062e-11
+	Actual label = 1, predicted label = 0
+
+	(27) 'there are many unexpected and thrilling surprises in store for you'
+	P(Class=0)=0.037037037037037035 (0/26)
+	P(Class=1)=1.0 (26/26)
+	label_0_probability = 0.037037037037037035
+	label_1_probability = 9.817525223575685e-10
+	Actual label = 1, predicted label = 0
+
+	(28) 'your lover will never wish to leave'
+	P(Class=0)=0.03571428571428571 (0/27)
+	P(Class=1)=1.0 (27/27)
+	label_0_probability = 0.03571428571428571
+	label_1_probability = 1.6294678951515793e-08
+	Actual label = 1, predicted label = 0
+
+	(29) 'there's a good chance of a romantic encounter soon'
+	P(Class=0)=0.034482758620689655 (0/28)
+	P(Class=1)=1.0 (28/28)
+	label_0_probability = 0.034482758620689655
+	label_1_probability = 3.553245497705217e-09
+	Actual label = 1, predicted label = 0
+
+	(30) 'you will enjoy good health you will be surrounded by luxury'
+	P(Class=0)=0.03333333333333333 (0/29)
+	P(Class=1)=1.0 (29/29)
+	label_0_probability = 0.03333333333333333
+	label_1_probability = 8.883354025647342e-10
+	Actual label = 1, predicted label = 0
+
+	(31) 'many people will be drawn to your wisdom and insights'
+	P(Class=0)=0.03225806451612903 (0/30)
+	P(Class=1)=1.0 (30/30)
+	label_0_probability = 0.03225806451612903
+	label_1_probability = 7.340184941306803e-10
+	Actual label = 1, predicted label = 0
+
+	(32) 'you will be rewarded for being a good listener'
+	P(Class=0)=0.03125 (0/31)
+	P(Class=1)=1.0 (31/31)
+	label_0_probability = 0.03125
+	label_1_probability = 8.693445034876775e-07
+	Actual label = 1, predicted label = 0
+
+	(33) 'all the effort you are making will ultimately pay off'
+	P(Class=0)=0.030303030303030304 (0/32)
+	P(Class=1)=1.0 (32/32)
+	label_0_probability = 0.030303030303030304
+	label_1_probability = 1.920208160066754e-08
+	Actual label = 1, predicted label = 0
+
+	(34) 'the wheel of good fortune is finally turning in your direction'
+	P(Class=0)=0.029411764705882353 (0/33)
+	P(Class=1)=1.0 (33/33)
+	label_0_probability = 0.029411764705882353
+	label_1_probability = 1.4981396495301997e-11
+	Actual label = 1, predicted label = 0
+
+	(35) 'you will have many friends'
+	P(Class=0)=0.02857142857142857 (0/34)
+	P(Class=1)=1.0 (34/34)
+	label_0_probability = 0.02857142857142857
+	label_1_probability = 1.3499766431504514e-05
+	Actual label = 1, predicted label = 0
+
+	(36) 'remember three months from this date good things are in store for you'
+	P(Class=0)=0.027777777777777776 (0/35)
+	P(Class=1)=1.0 (35/35)
+	label_0_probability = 0.027777777777777776
+	label_1_probability = 1.1840290410096514e-12
+	Actual label = 1, predicted label = 0
+
+	(37) 'you will be singled out for promotion'
+	P(Class=0)=0.02702702702702703 (0/36)
+	P(Class=1)=1.0 (36/36)
+	label_0_probability = 0.02702702702702703
+	label_1_probability = 3.7919385121373646e-06
+	Actual label = 1, predicted label = 0
+
+	(38) 'good ideas will spring forth naturally from your mind in the coming week'
+	P(Class=0)=0.02631578947368421 (0/37)
+	P(Class=1)=1.0 (37/37)
+	label_0_probability = 0.02631578947368421
+	label_1_probability = 1.2829936231889287e-14
+	Actual label = 1, predicted label = 0
+
+	(39) 'good health will be yours for a long time'
+	P(Class=0)=0.02564102564102564 (0/38)
+	P(Class=1)=1.0 (38/38)
+	label_0_probability = 0.02564102564102564
+	label_1_probability = 1.0879895080161346e-07
+	Actual label = 1, predicted label = 0
+
+	(40) 'you will be spending time outdoors in the mountains near water'
+	P(Class=0)=0.025 (0/39)
+	P(Class=1)=1.0 (39/39)
+	label_0_probability = 0.025
+	label_1_probability = 8.578141227783786e-12
+	Actual label = 1, predicted label = 0
+
+	(41) 'you will soon take a very pleasant and successful trip'
+	P(Class=0)=0.024390243902439025 (0/40)
+	P(Class=1)=1.0 (40/40)
+	label_0_probability = 0.024390243902439025
+	label_1_probability = 1.756737694370516e-09
+	Actual label = 1, predicted label = 0
+
+	(42) 'you will be blessed with longevity'
+	P(Class=0)=0.023809523809523808 (0/41)
+	P(Class=1)=1.0 (41/41)
+	label_0_probability = 0.023809523809523808
+	label_1_probability = 3.0363308962359735e-06
+	Actual label = 1, predicted label = 0
+
+	(43) 'your secret desire to completely change your life will manifest'
+	P(Class=0)=0.023255813953488372 (0/42)
+	P(Class=1)=1.0 (42/42)
+	label_0_probability = 0.023255813953488372
+	label_1_probability = 1.5910228770022738e-11
+	Actual label = 1, predicted label = 0
+
+	(44) 'many people will be drawn to you for your wisdom and insights'
+	P(Class=0)=0.022727272727272728 (0/43)
+	P(Class=1)=1.0 (43/43)
+	label_0_probability = 0.022727272727272728
+	label_1_probability = 3.985719074472693e-09
+	Actual label = 1, predicted label = 0
+
+	(45) 'you will be unusually successful in study'
+	P(Class=0)=0.022222222222222223 (0/44)
+	P(Class=1)=1.0 (44/44)
+	label_0_probability = 0.022222222222222223
+	label_1_probability = 1.2791621606413141e-07
+	Actual label = 1, predicted label = 0
+
+	(46) 'you are soon going to change your present line of work'
+	P(Class=0)=0.021739130434782608 (0/45)
+	P(Class=1)=1.0 (45/45)
+	label_0_probability = 0.021739130434782608
+	label_1_probability = 9.104852916105437e-11
+	Actual label = 1, predicted label = 0
+
+	(47) 'your planning will bring rich rewards'
+	P(Class=0)=0.02127659574468085 (0/46)
+	P(Class=1)=1.0 (46/46)
+	label_0_probability = 0.02127659574468085
+	label_1_probability = 1.1648359794643176e-09
+	Actual label = 1, predicted label = 0
+
+	(48) 'bide your time for success is near'
+	P(Class=0)=0.020833333333333332 (0/47)
+	P(Class=1)=1.0 (47/47)
+	label_0_probability = 0.020833333333333332
+	label_1_probability = 7.1272369904519826e-09
+	Actual label = 1, predicted label = 0
+
+	(49) 'you will conquer obstacles to achieve success'
+	P(Class=0)=0.02040816326530612 (0/48)
+	P(Class=1)=1.0 (48/48)
+	label_0_probability = 0.02040816326530612
+	label_1_probability = 2.0569597060428292e-09
+	Actual label = 1, predicted label = 0
+
+	(50) 'your life will be happy and peaceful'
+	P(Class=0)=0.02 (0/49)
+	P(Class=1)=1.0 (49/49)
+	label_0_probability = 0.02
+	label_1_probability = 6.485275326375712e-07
+	Actual label = 1, predicted label = 0
+
+	(51) 'you'll get more secure and confident in your relationships with co-workers'
+	P(Class=0)=0.0196078431372549 (0/50)
+	P(Class=1)=1.0 (50/50)
+	label_0_probability = 0.0196078431372549
+	label_1_probability = 8.748278462979034e-12
+	Actual label = 1, predicted label = 0
+
+	(52) 'the best times of your life have not yet been lived'
+	P(Class=0)=0.019230769230769232 (0/51)
+	P(Class=1)=1.0 (51/51)
+	label_0_probability = 0.019230769230769232
+	label_1_probability = 6.493062948971625e-11
+	Actual label = 1, predicted label = 0
+
+	(53) 'your determination will bring you much success'
+	P(Class=0)=0.018867924528301886 (0/52)
+	P(Class=1)=1.0 (52/52)
+	label_0_probability = 0.018867924528301886
+	label_1_probability = 4.760174065781446e-09
+	Actual label = 1, predicted label = 0
+
+	(54) 'your future will be happy and productive'
+	P(Class=0)=0.018518518518518517 (0/53)
+	P(Class=1)=1.0 (53/53)
+	label_0_probability = 0.018518518518518517
+	label_1_probability = 3.7266739494279197e-07
+	Actual label = 1, predicted label = 0
+
+	(55) 'you are a traveler at heart there will be many journeys'
+	P(Class=0)=0.01818181818181818 (0/54)
+	P(Class=1)=1.0 (54/54)
+	label_0_probability = 0.01818181818181818
+	label_1_probability = 3.707585381247772e-09
+	Actual label = 1, predicted label = 0
+
+	(56) 'you will get what you want through your charm and personality'
+	P(Class=0)=0.017857142857142856 (0/55)
+	P(Class=1)=1.0 (55/55)
+	label_0_probability = 0.017857142857142856
+	label_1_probability = 2.707330477816182e-09
+	Actual label = 1, predicted label = 0
+
+	(57) 'don't be hasty prosperity will knock on your door soon'
+	P(Class=0)=0.017543859649122806 (0/56)
+	P(Class=1)=1.0 (56/56)
+	label_0_probability = 0.017543859649122806
+	label_1_probability = 7.161603207277411e-11
+	Actual label = 1, predicted label = 0
+
+	(58) 'take advantage of your great imagination it will serve you well'
+	P(Class=0)=0.017241379310344827 (0/57)
+	P(Class=1)=1.0 (57/57)
+	label_0_probability = 0.017241379310344827
+	label_1_probability = 1.0893699530088347e-12
+	Actual label = 1, predicted label = 0
+
+	(59) 'someone will invite you to a karaoke party'
+	P(Class=0)=0.01694915254237288 (0/58)
+	P(Class=1)=1.0 (58/58)
+	label_0_probability = 0.01694915254237288
+	label_1_probability = 1.0842606400097259e-09
+	Actual label = 1, predicted label = 0
+
+	(60) 'you will turn to your mother for advice'
+	P(Class=0)=0.016666666666666666 (0/59)
+	P(Class=1)=1.0 (59/59)
+	label_0_probability = 0.016666666666666666
+	label_1_probability = 3.047744227726337e-08
+	Actual label = 1, predicted label = 0
+
+	(61) 'your planning will bring rich rewards'
+	P(Class=0)=0.01639344262295082 (0/60)
+	P(Class=1)=1.0 (60/60)
+	label_0_probability = 0.01639344262295082
+	label_1_probability = 1.2843303245856645e-08
+	Actual label = 1, predicted label = 0
+
+	(62) 'frequent conversations will fill your heart with joy'
+	P(Class=0)=0.016129032258064516 (0/61)
+	P(Class=1)=1.0 (61/61)
+	label_0_probability = 0.016129032258064516
+	label_1_probability = 3.127206268909354e-11
+	Actual label = 1, predicted label = 0
+
+	(63) 'you will always come out on top of every situation'
+	P(Class=0)=0.015873015873015872 (0/62)
+	P(Class=1)=1.0 (62/62)
+	label_0_probability = 0.015873015873015872
+	label_1_probability = 5.967217517767824e-11
+	Actual label = 1, predicted label = 0
+
+	(64) 'your talents will be recognized and suitably rewarded'
+	P(Class=0)=0.015625 (0/63)
+	P(Class=1)=1.0 (63/63)
+	label_0_probability = 0.015625
+	label_1_probability = 8.403339100874502e-10
+	Actual label = 1, predicted label = 0
+
+	(65) 'you will always be surrounded by true friends'
+	P(Class=0)=0.015384615384615385 (0/64)
+	P(Class=1)=1.0 (64/64)
+	label_0_probability = 0.015384615384615385
+	label_1_probability = 5.046322537392475e-09
+	Actual label = 1, predicted label = 0
+
+	(66) 'a nice cake is waiting for you'
+	P(Class=0)=0.015151515151515152 (0/65)
+	P(Class=1)=1.0 (65/65)
+	label_0_probability = 0.015151515151515152
+	label_1_probability = 9.859264212227811e-09
+	Actual label = 1, predicted label = 0
+
+	(67) 'you are going to have some new clothes'
+	P(Class=0)=0.014925373134328358 (0/66)
+	P(Class=1)=1.0 (66/66)
+	label_0_probability = 0.014925373134328358
+	label_1_probability = 8.518666930686076e-08
+	Actual label = 1, predicted label = 0
+
+	(68) 'you will meet an important person who will help you advance professionally'
+	P(Class=0)=0.014705882352941176 (0/67)
+	P(Class=1)=1.0 (67/67)
+	label_0_probability = 0.014705882352941176
+	label_1_probability = 3.0399368402176925e-13
+	Actual label = 1, predicted label = 0
+
+	(69) 'life's reward will be yours'
+	P(Class=0)=0.014492753623188406 (0/68)
+	P(Class=1)=1.0 (68/68)
+	label_0_probability = 0.014492753623188406
+	label_1_probability = 1.5098112128152196e-06
+	Actual label = 1, predicted label = 0
+
+	(70) 'you will be fortunate in everything you put your hands to'
+	P(Class=0)=0.014285714285714285 (0/69)
+	P(Class=1)=1.0 (69/69)
+	label_0_probability = 0.014285714285714285
+	label_1_probability = 3.127552110313068e-10
+	Actual label = 1, predicted label = 0
+
+	(71) 'your future is as boundless as the lofty heaven'
+	P(Class=0)=0.014084507042253521 (0/70)
+	P(Class=1)=1.0 (70/70)
+	label_0_probability = 0.014084507042253521
+	label_1_probability = 5.153687283183743e-10
+	Actual label = 1, predicted label = 0
+
+	(72) 'you need not worry about the future'
+	P(Class=0)=0.013888888888888888 (0/71)
+	P(Class=1)=1.0 (71/71)
+	label_0_probability = 0.013888888888888888
+	label_1_probability = 4.629654236922547e-08
+	Actual label = 1, predicted label = 0
+
+	(73) 'your trouble will cease and fortune will smile upon you'
+	P(Class=0)=0.0136986301369863 (0/72)
+	P(Class=1)=1.0 (72/72)
+	label_0_probability = 0.0136986301369863
+	label_1_probability = 7.454294672347645e-12
+	Actual label = 1, predicted label = 0
+
+	(74) 'your faith in yourself will soon be rewarded'
+	P(Class=0)=0.013513513513513514 (0/73)
+	P(Class=1)=1.0 (73/73)
+	label_0_probability = 0.013513513513513514
+	label_1_probability = 4.415288664220653e-07
+	Actual label = 1, predicted label = 0
+
+	(75) 'you will take a change on something in the near future'
+	P(Class=0)=0.013333333333333334 (0/74)
+	P(Class=1)=1.0 (74/74)
+	label_0_probability = 0.013333333333333334
+	label_1_probability = 5.979959573836168e-09
+	Actual label = 1, predicted label = 0
+
+	(76) 'your efforts will result in much profit'
+	P(Class=0)=0.013157894736842105 (0/75)
+	P(Class=1)=1.0 (75/75)
+	label_0_probability = 0.013157894736842105
+	label_1_probability = 4.726869903147154e-10
+	Actual label = 1, predicted label = 0
+
+	(77) 'health and happiness are in your destiny'
+	P(Class=0)=0.012987012987012988 (0/76)
+	P(Class=1)=1.0 (76/76)
+	label_0_probability = 0.012987012987012988
+	label_1_probability = 2.22251776967927e-08
+	Actual label = 1, predicted label = 0
+
+	(78) 'beautiful things await you'
+	P(Class=0)=0.01282051282051282 (0/77)
+	P(Class=1)=1.0 (77/77)
+	label_0_probability = 0.01282051282051282
+	label_1_probability = 1.4774270892004314e-08
+	Actual label = 1, predicted label = 0
+
+	(79) 'your destiny is to be famous'
+	P(Class=0)=0.012658227848101266 (0/78)
+	P(Class=1)=1.0 (78/78)
+	label_0_probability = 0.012658227848101266
+	label_1_probability = 1.1776738754658668e-06
+	Actual label = 1, predicted label = 0
+
+	(80) 'you will soon have an opportunity to make a change to your advantage'
+	P(Class=0)=0.0125 (0/79)
+	P(Class=1)=1.0 (79/79)
+	label_0_probability = 0.0125
+	label_1_probability = 5.712982042606527e-10
+	Actual label = 1, predicted label = 0
+
+	(81) 'you have an important new business development shaping up'
+	P(Class=0)=0.012345679012345678 (0/80)
+	P(Class=1)=1.0 (80/80)
+	label_0_probability = 0.012345679012345678
+	label_1_probability = 6.724072678930023e-12
+	Actual label = 1, predicted label = 0
+
+	(82) 'you will get something new within a week'
+	P(Class=0)=0.012195121951219513 (0/81)
+	P(Class=1)=1.0 (81/81)
+	label_0_probability = 0.012195121951219513
+	label_1_probability = 2.3025659294161382e-10
+	Actual label = 1, predicted label = 0
+
+	(83) 'forget yesterday tomorrow will be a golden day for you'
+	P(Class=0)=0.012048192771084338 (0/82)
+	P(Class=1)=1.0 (82/82)
+	label_0_probability = 0.012048192771084338
+	label_1_probability = 2.015278388124363e-12
+	Actual label = 1, predicted label = 0
+
+	(84) 'hand that touch this fortune shall stay young and strong'
+	P(Class=0)=0.011904761904761904 (0/83)
+	P(Class=1)=1.0 (83/83)
+	label_0_probability = 0.011904761904761904
+	label_1_probability = 3.846188917091366e-16
+	Actual label = 1, predicted label = 0
+
+	(85) 'you will have good luck in your personal affairs'
+	P(Class=0)=0.011764705882352941 (0/84)
+	P(Class=1)=1.0 (84/84)
+	label_0_probability = 0.011764705882352941
+	label_1_probability = 1.6303924065534748e-09
+	Actual label = 1, predicted label = 0
+
+	(86) 'you are heading for a land of sunshine'
+	P(Class=0)=0.011627906976744186 (0/85)
+	P(Class=1)=1.0 (85/85)
+	label_0_probability = 0.011627906976744186
+	label_1_probability = 5.736156169404473e-09
+	Actual label = 1, predicted label = 0
+
+	(87) 'be patient you will hear comforting news'
+	P(Class=0)=0.011494252873563218 (0/86)
+	P(Class=1)=1.0 (86/86)
+	label_0_probability = 0.011494252873563218
+	label_1_probability = 4.145754246825557e-10
+	Actual label = 1, predicted label = 0
+
+	(88) 'a small incident will develop to your advantage'
+	P(Class=0)=0.011363636363636364 (0/87)
+	P(Class=1)=1.0 (87/87)
+	label_0_probability = 0.011363636363636364
+	label_1_probability = 4.002948008195942e-10
+	Actual label = 1, predicted label = 0
+
+	(89) 'when winter comes heaven will rain success on you'
+	P(Class=0)=0.011235955056179775 (0/88)
+	P(Class=1)=1.0 (88/88)
+	label_0_probability = 0.011235955056179775
+	label_1_probability = 1.1851401315371408e-11
+	Actual label = 1, predicted label = 0
+
+	(90) 'happy event will take place shortly in your home'
+	P(Class=0)=0.011111111111111112 (0/89)
+	P(Class=1)=1.0 (89/89)
+	label_0_probability = 0.011111111111111112
+	label_1_probability = 6.505800048777726e-13
+	Actual label = 1, predicted label = 0
+
+	(91) 'success and wealth are in your fate'
+	P(Class=0)=0.01098901098901099 (0/90)
+	P(Class=1)=1.0 (90/90)
+	label_0_probability = 0.01098901098901099
+	label_1_probability = 5.036806704220266e-08
+	Actual label = 1, predicted label = 0
+
+	(92) 'you and your mate will be happy in your life together'
+	P(Class=0)=0.010869565217391304 (0/91)
+	P(Class=1)=1.0 (91/91)
+	label_0_probability = 0.010869565217391304
+	label_1_probability = 4.9509143810882995e-09
+	Actual label = 1, predicted label = 0
+
+	(93) 'soon you will get the recognition you deserve'
+	P(Class=0)=0.010752688172043012 (0/92)
+	P(Class=1)=1.0 (92/92)
+	label_0_probability = 0.010752688172043012
+	label_1_probability = 4.302235616064921e-09
+	Actual label = 1, predicted label = 0
+
+	(94) 'your present plans are going to succeed'
+	P(Class=0)=0.010638297872340425 (0/93)
+	P(Class=1)=1.0 (93/93)
+	label_0_probability = 0.010638297872340425
+	label_1_probability = 1.5259296239722523e-09
+	Actual label = 1, predicted label = 0
+
+	(95) 'happy news is on its way to you'
+	P(Class=0)=0.010526315789473684 (0/94)
+	P(Class=1)=1.0 (94/94)
+	label_0_probability = 0.010526315789473684
+	label_1_probability = 1.1536986586068889e-07
+	Actual label = 1, predicted label = 0
+
+	(96) 'you will soon have many bright days'
+	P(Class=0)=0.010416666666666666 (0/95)
+	P(Class=1)=1.0 (95/95)
+	label_0_probability = 0.010416666666666666
+	label_1_probability = 1.3232973532834096e-08
+	Actual label = 1, predicted label = 0
+
+	(97) 'good news is on its way'
+	P(Class=0)=0.010309278350515464 (0/96)
+	P(Class=1)=1.0 (96/96)
+	label_0_probability = 0.010309278350515464
+	label_1_probability = 5.511706487251561e-07
+	Actual label = 1, predicted label = 0
+
+	(98) 'you will have traveling opportunities'
+	P(Class=0)=0.01020408163265306 (0/97)
+	P(Class=1)=1.0 (97/97)
+	label_0_probability = 0.01020408163265306
+	label_1_probability = 8.384675992030275e-07
+	Actual label = 1, predicted label = 0
+
+	(99) 'your dearest wish will come true'
+	P(Class=0)=0.010101010101010102 (0/98)
+	P(Class=1)=1.0 (98/98)
+	label_0_probability = 0.010101010101010102
+	label_1_probability = 1.837151069146069e-09
+	Actual label = 1, predicted label = 0
+
+	(100) 'you will soon be honored by someone you respect'
+	P(Class=0)=0.01 (0/99)
+	P(Class=1)=1.0 (99/99)
+	label_0_probability = 0.01
+	label_1_probability = 2.066249712013698e-09
+	Actual label = 1, predicted label = 0
+
+	(101) 'you will be traveling and coming into a fortune'
+	P(Class=0)=0.009900990099009901 (0/100)
+	P(Class=1)=1.0 (100/100)
+	label_0_probability = 0.009900990099009901
+	label_1_probability = 1.3769170653308535e-07
+	Actual label = 1, predicted label = 0
+
+	(102) 'you will have a lovely time this weekend'
+	P(Class=0)=0.00980392156862745 (0/101)
+	P(Class=1)=1.0 (101/101)
+	label_0_probability = 0.00980392156862745
+	label_1_probability = 4.2115269762868e-08
+	Actual label = 1, predicted label = 0
+
+	(103) 'friends long absent are coming back to you'
+	P(Class=0)=0.009708737864077669 (0/102)
+	P(Class=1)=1.0 (102/102)
+	label_0_probability = 0.009708737864077669
+	label_1_probability = 6.626234380014632e-12
+	Actual label = 1, predicted label = 0
+
+	(104) 'you will inherit some money or a small piece of land'
+	P(Class=0)=0.009615384615384616 (0/103)
+	P(Class=1)=1.0 (103/103)
+	label_0_probability = 0.009615384615384616
+	label_1_probability = 2.8842966208640463e-12
+	Actual label = 1, predicted label = 0
+
+	(105) 'you and your wife will be happy in your life together'
+	P(Class=0)=0.009523809523809525 (0/104)
+	P(Class=1)=1.0 (104/104)
+	label_0_probability = 0.009523809523809525
+	label_1_probability = 1.032482590329009e-08
+	Actual label = 1, predicted label = 0
+
+	(106) 'everything will now come your way'
+	P(Class=0)=0.009433962264150943 (0/105)
+	P(Class=1)=1.0 (105/105)
+	label_0_probability = 0.009433962264150943
+	label_1_probability = 5.378985577614881e-09
+	Actual label = 1, predicted label = 0
+
+	(107) 'you will always have good luck in your personal affairs'
+	P(Class=0)=0.009345794392523364 (0/106)
+	P(Class=1)=1.0 (106/106)
+	label_0_probability = 0.009345794392523364
+	label_1_probability = 2.814317391029282e-10
+	Actual label = 1, predicted label = 0
+
+	(108) 'your love life will be happy and harmonious'
+	P(Class=0)=0.009259259259259259 (0/107)
+	P(Class=1)=1.0 (107/107)
+	label_0_probability = 0.009259259259259259
+	label_1_probability = 5.960322058478538e-09
+	Actual label = 1, predicted label = 0
+
+	(109) 'you will be happy be receipt of good news'
+	P(Class=0)=0.009174311926605505 (0/108)
+	P(Class=1)=1.0 (108/108)
+	label_0_probability = 0.009174311926605505
+	label_1_probability = 5.5278587024438236e-08
+	Actual label = 1, predicted label = 0
+
+	(110) 'you will spend old age in comfort and material wealth'
+	P(Class=0)=0.00909090909090909 (0/109)
+	P(Class=1)=1.0 (109/109)
+	label_0_probability = 0.00909090909090909
+	label_1_probability = 6.178394621513625e-14
+	Actual label = 1, predicted label = 0
+
+	(111) 'you will be showered with good luck'
+	P(Class=0)=0.009009009009009009 (0/110)
+	P(Class=1)=1.0 (110/110)
+	label_0_probability = 0.009009009009009009
+	label_1_probability = 3.081296913614647e-07
+	Actual label = 1, predicted label = 0
+
+	(112) 'you will be advanced socially without any special effort'
+	P(Class=0)=0.008928571428571428 (0/111)
+	P(Class=1)=1.0 (111/111)
+	label_0_probability = 0.008928571428571428
+	label_1_probability = 6.234421401363332e-12
+	Actual label = 1, predicted label = 0
+
+	(113) 'your return will be a triumphant one'
+	P(Class=0)=0.008849557522123894 (0/112)
+	P(Class=1)=1.0 (112/112)
+	label_0_probability = 0.008849557522123894
+	label_1_probability = 6.1105915378244405e-09
+	Actual label = 1, predicted label = 0
+
+	(114) 'you will travel far and wide both pleasure and business'
+	P(Class=0)=0.008771929824561403 (0/113)
+	P(Class=1)=1.0 (113/113)
+	label_0_probability = 0.008771929824561403
+	label_1_probability = 1.8946680952116333e-12
+	Actual label = 1, predicted label = 0
+
+	(115) 'a friend will give you a new idea'
+	P(Class=0)=0.008695652173913044 (0/114)
+	P(Class=1)=1.0 (114/114)
+	label_0_probability = 0.008695652173913044
+	label_1_probability = 2.6493562993642925e-10
+	Actual label = 1, predicted label = 0
+
+	(116) 'it's a good time to finish up old tasks'
+	P(Class=0)=0.008620689655172414 (0/115)
+	P(Class=1)=1.0 (115/115)
+	label_0_probability = 0.008620689655172414
+	label_1_probability = 5.735180444832714e-11
+	Actual label = 1, predicted label = 0
+
+	(117) 'reconcile with an old friend all has been forgotten'
+	P(Class=0)=0.008547008547008548 (0/116)
+	P(Class=1)=1.0 (116/116)
+	label_0_probability = 0.008547008547008548
+	label_1_probability = 1.65279053704399e-10
+	Actual label = 1, predicted label = 0
+
+	(118) 'with a little more hard work you creativity takes you to great heights'
+	P(Class=0)=0.00847457627118644 (0/117)
+	P(Class=1)=1.0 (117/117)
+	label_0_probability = 0.00847457627118644
+	label_1_probability = 2.2567012737180567e-16
+	Actual label = 1, predicted label = 0
+
+	(119) 'your life becomes more and more of an adventure'
+	P(Class=0)=0.008403361344537815 (0/118)
+	P(Class=1)=1.0 (118/118)
+	label_0_probability = 0.008403361344537815
+	label_1_probability = 2.718433144360048e-08
+	Actual label = 1, predicted label = 0
+
+	(120) 'you are given the chance to take part in an exciting adventure'
+	P(Class=0)=0.008333333333333333 (0/119)
+	P(Class=1)=1.0 (119/119)
+	label_0_probability = 0.008333333333333333
+	label_1_probability = 1.0223312661903542e-13
+	Actual label = 1, predicted label = 0
+
+	(121) 'you are almost there'
+	P(Class=0)=0.008264462809917356 (0/120)
+	P(Class=1)=1.0 (120/120)
+	label_0_probability = 0.008264462809917356
+	label_1_probability = 3.260221606002534e-05
+	Actual label = 1, predicted label = 0
+
+	(122) 'this is a great day to handle those real estate matters'
+	P(Class=0)=0.00819672131147541 (0/121)
+	P(Class=1)=1.0 (121/121)
+	label_0_probability = 0.00819672131147541
+	label_1_probability = 1.0353252743644993e-14
+	Actual label = 1, predicted label = 0
+
+	(123) 'what you think is a problem is an opportunity for growth'
+	P(Class=0)=0.008130081300813009 (0/122)
+	P(Class=1)=1.0 (122/122)
+	label_0_probability = 0.008130081300813009
+	label_1_probability = 3.648791874160234e-11
+	Actual label = 1, predicted label = 0
+
+	(124) 'someone is speaking well of you'
+	P(Class=0)=0.008064516129032258 (0/123)
+	P(Class=1)=1.0 (123/123)
+	label_0_probability = 0.008064516129032258
+	label_1_probability = 1.3616900648555414e-08
+	Actual label = 1, predicted label = 0
+
+	(125) 'a chance meeting opens new doors to success and friendship'
+	P(Class=0)=0.008 (0/124)
+	P(Class=1)=1.0 (124/124)
+	label_0_probability = 0.008
+	label_1_probability = 2.9358875340128496e-15
+	Actual label = 1, predicted label = 0
+
+	(126) 'everyone agrees you are the best'
+	P(Class=0)=0.007936507936507936 (0/125)
+	P(Class=1)=1.0 (125/125)
+	label_0_probability = 0.007936507936507936
+	label_1_probability = 4.3427367277927334e-09
+	Actual label = 1, predicted label = 0
+
+	(127) 'everything is not yet lost'
+	P(Class=0)=0.007874015748031496 (0/126)
+	P(Class=1)=1.0 (126/126)
+	label_0_probability = 0.007874015748031496
+	label_1_probability = 1.3263838340101472e-08
+	Actual label = 1, predicted label = 0
+
+	(128) 'you are surrounded by fortune hunters'
+	P(Class=0)=0.0078125 (0/127)
+	P(Class=1)=1.0 (127/127)
+	label_0_probability = 0.0078125
+	label_1_probability = 3.400859407548193e-08
+	Actual label = 1, predicted label = 0
+
+	(129) 'don't be surprised by the emergence of unexpected talents'
+	P(Class=0)=0.007751937984496124 (0/128)
+	P(Class=1)=1.0 (128/128)
+	label_0_probability = 0.007751937984496124
+	label_1_probability = 6.815879955069307e-11
+	Actual label = 1, predicted label = 0
+
+	(130) 'there are many new opportunities that are being presented to you'
+	P(Class=0)=0.007692307692307693 (0/129)
+	P(Class=1)=1.0 (129/129)
+	label_0_probability = 0.007692307692307693
+	label_1_probability = 1.794672622859424e-09
+	Actual label = 1, predicted label = 0
+
+	(131) 'somebody would do anything for you'
+	P(Class=0)=0.007633587786259542 (0/130)
+	P(Class=1)=1.0 (130/130)
+	label_0_probability = 0.007633587786259542
+	label_1_probability = 2.793756576507256e-07
+	Actual label = 1, predicted label = 0
+
+	(132) 'success is right at your fingertips open your eyes'
+	P(Class=0)=0.007575757575757576 (0/131)
+	P(Class=1)=1.0 (131/131)
+	label_0_probability = 0.007575757575757576
+	label_1_probability = 9.047697900004461e-13
+	Actual label = 1, predicted label = 0
+
+	(133) 'get your mind set confidence will lead you on'
+	P(Class=0)=0.007518796992481203 (0/132)
+	P(Class=1)=1.0 (132/132)
+	label_0_probability = 0.007518796992481203
+	label_1_probability = 2.0230762127812706e-12
+	Actual label = 1, predicted label = 0
+
+	(134) 'someone can read your mind'
+	P(Class=0)=0.007462686567164179 (0/133)
+	P(Class=1)=1.0 (133/133)
+	label_0_probability = 0.007462686567164179
+	label_1_probability = 1.9008680715733879e-10
+	Actual label = 1, predicted label = 0
+
+	(135) 'trust your intution the universe is guiding your life'
+	P(Class=0)=0.007407407407407408 (0/134)
+	P(Class=1)=1.0 (134/134)
+	label_0_probability = 0.007407407407407408
+	label_1_probability = 1.4540247032158993e-12
+	Actual label = 1, predicted label = 0
+
+	(136) 'alas the onion you are eating is someone else's water lily'
+	P(Class=0)=0.007352941176470588 (0/135)
+	P(Class=1)=1.0 (135/135)
+	label_0_probability = 0.007352941176470588
+	label_1_probability = 6.058231251919897e-17
+	Actual label = 1, predicted label = 0
+
+	(137) 'the greatest danger could be your stupidity'
+	P(Class=0)=0.0072992700729927005 (0/136)
+	P(Class=1)=1.0 (136/136)
+	label_0_probability = 0.0072992700729927005
+	label_1_probability = 1.9377066953967404e-09
+	Actual label = 1, predicted label = 0
+
+	(138) 'you will be wise not to seek too much from others'
+	P(Class=0)=0.007246376811594203 (0/137)
+	P(Class=1)=1.0 (137/137)
+	label_0_probability = 0.007246376811594203
+	label_1_probability = 1.3144691587116675e-10
+	Actual label = 1, predicted label = 0
+
+	(139) 'fortune cookie says there are plenty of promises and hope floating around you'
+	P(Class=0)=0.007194244604316547 (0/138)
+	P(Class=1)=1.0 (138/138)
+	label_0_probability = 0.007194244604316547
+	label_1_probability = 2.2629614878147017e-19
+	Actual label = 1, predicted label = 0
+
+	(140) 'you can be master of every situation'
+	P(Class=0)=0.007142857142857143 (0/139)
+	P(Class=1)=1.0 (139/139)
+	label_0_probability = 0.007142857142857143
+	label_1_probability = 1.0617334445536104e-10
+	Actual label = 1, predicted label = 0
+
+	(141) 'you can prosper in the field of medical research'
+	P(Class=0)=0.0070921985815602835 (0/140)
+	P(Class=1)=1.0 (140/140)
+	label_0_probability = 0.0070921985815602835
+	label_1_probability = 2.7615239571033526e-13
+	Actual label = 1, predicted label = 0
+
+	(142) 'your ideals are well within your reach'
+	P(Class=0)=0.007042253521126761 (0/141)
+	P(Class=1)=1.0 (141/141)
+	label_0_probability = 0.007042253521126761
+	label_1_probability = 7.669898957889578e-11
+	Actual label = 1, predicted label = 0
+
+	(143) 'your whole family are well'
+	P(Class=0)=0.006993006993006993 (0/142)
+	P(Class=1)=1.0 (142/142)
+	label_0_probability = 0.006993006993006993
+	label_1_probability = 7.201269561374964e-09
+	Actual label = 1, predicted label = 0
+
+	(144) 'this is the year when ingenuity stands high on the list'
+	P(Class=0)=0.006944444444444444 (0/143)
+	P(Class=1)=1.0 (143/143)
+	label_0_probability = 0.006944444444444444
+	label_1_probability = 8.488453592474838e-14
+	Actual label = 1, predicted label = 0
+
+	(145) 'pennies from heaven find their way to your doorstep this year'
+	P(Class=0)=0.006896551724137931 (0/144)
+	P(Class=1)=1.0 (144/144)
+	label_0_probability = 0.006896551724137931
+	label_1_probability = 1.422811414891656e-14
+	Actual label = 1, predicted label = 0
+
+	(146) 'your ability to juggle many tasks will take you far '
+	P(Class=0)=0.00684931506849315 (0/145)
+	P(Class=1)=1.0 (145/145)
+	label_0_probability = 0.00684931506849315
+	label_1_probability = 2.805547025827965e-13
+	Actual label = 1, predicted label = 0
+
+	(147) 'it's time for you to explore all those new interests'
+	P(Class=0)=0.006802721088435374 (0/146)
+	P(Class=1)=1.0 (146/146)
+	label_0_probability = 0.006802721088435374
+	label_1_probability = 6.799100370577067e-10
+	Actual label = 1, predicted label = 0
+
+	(148) 'now it is best to take things just one step at a time'
+	P(Class=0)=0.006756756756756757 (0/147)
+	P(Class=1)=1.0 (147/147)
+	label_0_probability = 0.006756756756756757
+	label_1_probability = 9.088377239894772e-17
+	Actual label = 1, predicted label = 0
+
+	(149) 'you will do well to expand your business'
+	P(Class=0)=0.006711409395973154 (0/148)
+	P(Class=1)=1.0 (148/148)
+	label_0_probability = 0.006711409395973154
+	label_1_probability = 3.272150541117571e-08
+	Actual label = 1, predicted label = 0
+
+	(150) 'you will be wise not to seek too much from others'
+	P(Class=0)=0.006666666666666667 (0/149)
+	P(Class=1)=1.0 (149/149)
+	label_0_probability = 0.006666666666666667
+	label_1_probability = 6.984383075845548e-10
+	Actual label = 1, predicted label = 0
+
+	(151) 'the time is right to make new friends'
+	P(Class=0)=0.006622516556291391 (0/150)
+	P(Class=1)=1.0 (150/150)
+	label_0_probability = 0.006622516556291391
+	label_1_probability = 1.4799561460422092e-10
+	Actual label = 1, predicted label = 0
+
+	(152) 'accept the next proposition you hearthe only certainty is that nothing is certain'
+	P(Class=0)=0.006578947368421052 (0/151)
+	P(Class=1)=1.0 (151/151)
+	label_0_probability = 0.006578947368421052
+	label_1_probability = 2.758634214204344e-18
+	Actual label = 1, predicted label = 0
+
+	(153) 'there is no mistake so great as that of being always right'
+	P(Class=0)=0.006535947712418301 (0/152)
+	P(Class=1)=1.0 (152/152)
+	label_0_probability = 0.006535947712418301
+	label_1_probability = 7.501284665899943e-10
+	Actual label = 0, predicted label = 0
+
+	(154) 'cleverness is serviceable for everything sufficient for nothing'
+	P(Class=0)=0.012987012987012988 (1/153)
+	P(Class=1)=0.9935064935064936 (152/153)
+	label_0_probability = 2.5365259740259742e-05
+	label_1_probability = 4.993060816234343e-13
+	Actual label = 0, predicted label = 0
+
+	(155) 'in order to take one must first give'
+	P(Class=0)=0.01935483870967742 (2/154)
+	P(Class=1)=0.9870967741935484 (152/154)
+	label_0_probability = 6.906224578189009e-07
+	label_1_probability = 2.2940662775308595e-14
+	Actual label = 0, predicted label = 0
+
+	(156) 'with careness and understanding your life will have no obstacles'
+	P(Class=0)=0.02564102564102564 (3/155)
+	P(Class=1)=0.9807692307692307 (152/155)
+	label_0_probability = 3.346219203264739e-07
+	label_1_probability = 3.476551387473813e-10
+	Actual label = 0, predicted label = 0
+
+	(157) 'be confident and you will succeed'
+	P(Class=0)=0.03184713375796178 (4/156)
+	P(Class=1)=0.9745222929936306 (152/156)
+	label_0_probability = 7.343449073928971e-06
+	label_1_probability = 1.1540340655254902e-06
+	Actual label = 0, predicted label = 0
+
+	(158) 'many a false step is made by standing still'
+	P(Class=0)=0.0379746835443038 (5/157)
+	P(Class=1)=0.9683544303797469 (152/157)
+	label_0_probability = 1.1794763443483667e-08
+	label_1_probability = 7.40363217032207e-15
+	Actual label = 0, predicted label = 0
+
+	(159) 'fear is the root of all evil'
+	P(Class=0)=0.0440251572327044 (6/158)
+	P(Class=1)=0.9622641509433962 (152/158)
+	label_0_probability = 1.4279580199286886e-06
+	label_1_probability = 1.3782732026699711e-09
+	Actual label = 0, predicted label = 0
+
+	(160) 'adventure can be real happiness'
+	P(Class=0)=0.05 (7/159)
+	P(Class=1)=0.95625 (152/159)
+	label_0_probability = 1.6669129110749927e-07
+	label_1_probability = 4.499586464093588e-10
+	Actual label = 0, predicted label = 0
+
+	(161) 'anyone who dares to be can never be weak'
+	P(Class=0)=0.055900621118012424 (8/160)
+	P(Class=1)=0.9503105590062112 (152/160)
+	label_0_probability = 3.0203437374016496e-08
+	label_1_probability = 7.211400245963565e-13
+	Actual label = 0, predicted label = 0
+
+	(162) 'try a new system or a different approach'
+	P(Class=0)=0.06172839506172839 (9/161)
+	P(Class=1)=0.9444444444444444 (152/161)
+	label_0_probability = 8.010097615978386e-09
+	label_1_probability = 6.139931122198388e-13
+	Actual label = 0, predicted label = 0
+
+	(163) 'welcome each day as a fresh new beginning'
+	P(Class=0)=0.06748466257668712 (10/162)
+	P(Class=1)=0.9386503067484663 (152/162)
+	label_0_probability = 1.126863229440788e-08
+	label_1_probability = 1.854926251917394e-12
+	Actual label = 0, predicted label = 0
+
+	(164) 'you are never bitter deceptive or petty'
+	P(Class=0)=0.07317073170731707 (11/163)
+	P(Class=1)=0.9329268292682927 (152/163)
+	label_0_probability = 8.879775626497484e-08
+	label_1_probability = 2.6548066454271372e-11
+	Actual label = 0, predicted label = 0
+
+	(165) 'nothing gets in the way of your vision of yourself in the future'
+	P(Class=0)=0.07878787878787878 (12/164)
+	P(Class=1)=0.9272727272727272 (152/164)
+	label_0_probability = 5.476626023067874e-09
+	label_1_probability = 4.272585597784423e-12
+	Actual label = 0, predicted label = 0
+
+	(166) 'among the lucky you are the chosen one'
+	P(Class=0)=0.08433734939759036 (13/165)
+	P(Class=1)=0.9216867469879518 (152/165)
+	label_0_probability = 5.3796542840641205e-08
+	label_1_probability = 2.622821023193076e-11
+	Actual label = 0, predicted label = 0
+
+	(167) 'you make other people realize that there exist other beauties in the world'
+	P(Class=0)=0.08982035928143713 (14/166)
+	P(Class=1)=0.9161676646706587 (152/166)
+	label_0_probability = 9.243834842893521e-11
+	label_1_probability = 6.0990472694565625e-15
+	Actual label = 0, predicted label = 0
+
+	(168) 'you have the rare ability to recognize ability in others'
+	P(Class=0)=0.09523809523809523 (15/167)
+	P(Class=1)=0.9107142857142857 (152/167)
+	label_0_probability = 1.544234033324536e-08
+	label_1_probability = 7.002767794768669e-11
+	Actual label = 0, predicted label = 0
+
+	(169) 'you have a natural grace and consideration for others'
+	P(Class=0)=0.10059171597633136 (16/168)
+	P(Class=1)=0.9053254437869822 (152/168)
+	label_0_probability = 2.8156929336276255e-08
+	label_1_probability = 3.4579162007814646e-11
+	Actual label = 0, predicted label = 0
+
+	(170) 'you long to see the great pyramids in egypt'
+	P(Class=0)=0.10588235294117647 (17/169)
+	P(Class=1)=0.9 (152/169)
+	label_0_probability = 1.341336127642968e-09
+	label_1_probability = 8.594320762930335e-13
+	Actual label = 0, predicted label = 0
+
+	(171) 'genius is one percent inspiration and ninety nine percent perspiration'
+	P(Class=0)=0.1111111111111111 (18/170)
+	P(Class=1)=0.8947368421052632 (152/170)
+	label_0_probability = 4.5733807525776516e-12
+	label_1_probability = 7.10896443103219e-18
+	Actual label = 0, predicted label = 0
+
+	(172) 'keep on charging the enemy so long as there is life'
+	P(Class=0)=0.11627906976744186 (19/171)
+	P(Class=1)=0.8895348837209303 (152/171)
+	label_0_probability = 1.5484743972927045e-09
+	label_1_probability = 2.333847834426298e-12
+	Actual label = 0, predicted label = 0
+
+	(173) 'your destiny lies before you choose wisely'
+	P(Class=0)=0.12138728323699421 (20/172)
+	P(Class=1)=0.884393063583815 (152/172)
+	label_0_probability = 5.876920932959348e-09
+	label_1_probability = 5.0665050461711064e-11
+	Actual label = 0, predicted label = 0
+
+	(174) 'travel hopefully arrive expectantly'
+	P(Class=0)=0.12643678160919541 (21/173)
+	P(Class=1)=0.8793103448275862 (152/173)
+	label_0_probability = 5.249468669668722e-09
+	label_1_probability = 1.6571796674570892e-11
+	Actual label = 0, predicted label = 0
+
+	(175) 'you always know the right times to be assertive or to simply wait'
+	P(Class=0)=0.13142857142857142 (22/174)
+	P(Class=1)=0.8742857142857143 (152/174)
+	label_0_probability = 1.6903155976239107e-12
+	label_1_probability = 7.179883678304368e-17
+	Actual label = 0, predicted label = 0
+
+	(176) 'delay is the antidote for anger'
+	P(Class=0)=0.13636363636363635 (23/175)
+	P(Class=1)=0.8693181818181818 (152/175)
+	label_0_probability = 8.898345166577841e-08
+	label_1_probability = 1.2451445410484378e-09
+	Actual label = 0, predicted label = 0
+
+	(177) 'never bring unhappy feelings into your home'
+	P(Class=0)=0.14124293785310735 (24/176)
+	P(Class=1)=0.864406779661017 (152/176)
+	label_0_probability = 4.566856934920175e-10
+	label_1_probability = 1.9939210041398627e-12
+	Actual label = 0, predicted label = 0
+
+	(178) 'when you speak honestly and openly others truly listen to you'
+	P(Class=0)=0.14606741573033707 (25/177)
+	P(Class=1)=0.8595505617977528 (152/177)
+	label_0_probability = 1.4635828667476518e-11
+	label_1_probability = 1.4024852583157732e-15
+	Actual label = 0, predicted label = 0
+
+	(179) 'from listening comes wisdom and from speaking repentance'
+	P(Class=0)=0.15083798882681565 (26/178)
+	P(Class=1)=0.8547486033519553 (152/178)
+	label_0_probability = 9.496207055306993e-11
+	label_1_probability = 6.442997449188483e-13
+	Actual label = 0, predicted label = 0
+
+	(180) 'you are contemplating some action which will bring credit upon you'
+	P(Class=0)=0.15555555555555556 (27/179)
+	P(Class=1)=0.85 (152/179)
+	label_0_probability = 1.9352455080664393e-11
+	label_1_probability = 5.69578789407473e-13
+	Actual label = 0, predicted label = 0
+
+	(181) 'the harder you work the luckier you get'
+	P(Class=0)=0.16022099447513813 (28/180)
+	P(Class=1)=0.8453038674033149 (152/180)
+	label_0_probability = 1.931631324665984e-09
+	label_1_probability = 2.0026431059490766e-10
+	Actual label = 0, predicted label = 0
+
+	(182) 'a person is never too old to learn'
+	P(Class=0)=0.16483516483516483 (29/181)
+	P(Class=1)=0.8406593406593407 (152/181)
+	label_0_probability = 7.922246725009777e-09
+	label_1_probability = 3.7335009066702733e-10
+	Actual label = 0, predicted label = 0
+
+	(183) 'everything has beauty but not everyone sees it'
+	P(Class=0)=0.16939890710382513 (30/182)
+	P(Class=1)=0.8360655737704918 (152/182)
+	label_0_probability = 3.3925237924727575e-09
+	label_1_probability = 6.42877043454173e-11
+	Actual label = 0, predicted label = 0
+
+	(184) 'suffering is caused by attachment to impermanent things'
+	P(Class=0)=0.17391304347826086 (31/183)
+	P(Class=1)=0.8315217391304348 (152/183)
+	label_0_probability = 4.7444154129271224e-11
+	label_1_probability = 2.0758306263571582e-13
+	Actual label = 0, predicted label = 0
+
+	(185) 'watch your relations with other people carefully be reserved'
+	P(Class=0)=0.1783783783783784 (32/184)
+	P(Class=1)=0.827027027027027 (152/184)
+	label_0_probability = 8.531759132735574e-11
+	label_1_probability = 2.0646099202687422e-13
+	Actual label = 0, predicted label = 0
+
+	(186) 'keep your plans secret for now'
+	P(Class=0)=0.1827956989247312 (33/185)
+	P(Class=1)=0.8225806451612904 (152/185)
+	label_0_probability = 2.5350726248921423e-09
+	label_1_probability = 1.9226569471986115e-10
+	Actual label = 0, predicted label = 0
+
+	(187) 'a smile is your personal welcome mat'
+	P(Class=0)=0.18716577540106952 (34/186)
+	P(Class=1)=0.8181818181818182 (152/186)
+	label_0_probability = 2.3572833837554274e-09
+	label_1_probability = 4.687194507955095e-11
+	Actual label = 0, predicted label = 0
+
+	(188) 'your sweetheart may be too beautiful for words but not for arguments'
+	P(Class=0)=0.19148936170212766 (35/187)
+	P(Class=1)=0.8138297872340425 (152/187)
+	label_0_probability = 2.963915688731008e-11
+	label_1_probability = 2.0181219354530605e-13
+	Actual label = 0, predicted label = 0
+
+	(189) 'relax and enjoy yourself'
+	P(Class=0)=0.19576719576719576 (36/188)
+	P(Class=1)=0.8095238095238095 (152/188)
+	label_0_probability = 1.327223851921242e-06
+	label_1_probability = 3.571411575332021e-07
+	Actual label = 0, predicted label = 0
+
+	(190) 'it's time you asked that special someone out on a date'
+	P(Class=0)=0.2 (37/189)
+	P(Class=1)=0.8052631578947368 (152/189)
+	label_0_probability = 2.5177776905182823e-11
+	label_1_probability = 1.3160171705725295e-11
+	Actual label = 0, predicted label = 0
+
+	(191) 'a love relationship takes on an added dimension'
+	P(Class=0)=0.20418848167539266 (38/190)
+	P(Class=1)=0.8010471204188482 (152/190)
+	label_0_probability = 2.2357766089455338e-11
+	label_1_probability = 1.9864236851579896e-13
+	Actual label = 0, predicted label = 0
+
+	(192) 'don't just learn the tricks of the trade learn the trade'
+	P(Class=0)=0.20833333333333334 (39/191)
+	P(Class=1)=0.796875 (152/191)
+	label_0_probability = 1.6341006343363036e-09
+	label_1_probability = 1.5018190736329872e-11
+	Actual label = 0, predicted label = 0
+
+	(193) 'when you gather all your resources together goals are accomplished'
+	P(Class=0)=0.21243523316062177 (40/192)
+	P(Class=1)=0.7927461139896373 (152/192)
+	label_0_probability = 1.8226126224409025e-11
+	label_1_probability = 1.4744430554710642e-13
+	Actual label = 0, predicted label = 0
+
+	(194) 'silence is a friend who will never betray'
+	P(Class=0)=0.21649484536082475 (41/193)
+	P(Class=1)=0.788659793814433 (152/193)
+	label_0_probability = 3.8850489821535975e-10
+	label_1_probability = 9.095979838473098e-11
+	Actual label = 0, predicted label = 0
+
+	(195) 'now is the time to go ahead and pursue that love interest'
+	P(Class=0)=0.2205128205128205 (42/194)
+	P(Class=1)=0.7846153846153846 (152/194)
+	label_0_probability = 6.7745405217792e-14
+	label_1_probability = 1.0952483793017456e-15
+	Actual label = 0, predicted label = 0
+
+	(196) 'a frown keeps others away smile today'
+	P(Class=0)=0.22448979591836735 (43/195)
+	P(Class=1)=0.7806122448979592 (152/195)
+	label_0_probability = 2.5007921453059135e-12
+	label_1_probability = 5.161998964152052e-15
+	Actual label = 0, predicted label = 0
+
+	(197) 'you have a deep interest in all that is artistic'
+	P(Class=0)=0.22842639593908629 (44/196)
+	P(Class=1)=0.7766497461928934 (152/196)
+	label_0_probability = 4.573387678694761e-08
+	label_1_probability = 2.239463812540235e-09
+	Actual label = 0, predicted label = 0
+
+	(198) 'it is more difficult to judge oneself than to judge others'
+	P(Class=0)=0.23232323232323232 (45/197)
+	P(Class=1)=0.7727272727272727 (152/197)
+	label_0_probability = 2.6320931127456632e-09
+	label_1_probability = 2.951453726929634e-11
+	Actual label = 0, predicted label = 0
+
+	(199) 'investigate new possibilities with friends now is the time'
+	P(Class=0)=0.23618090452261306 (46/198)
+	P(Class=1)=0.7688442211055276 (152/198)
+	label_0_probability = 6.326156706462555e-12
+	label_1_probability = 7.271069153125136e-13
+	Actual label = 0, predicted label = 0
+
+	(200) 'anyone can memorize things but the important thing is to understand it'
+	P(Class=0)=0.24 (47/199)
+	P(Class=1)=0.765 (152/199)
+	label_0_probability = 4.8615667446835975e-14
+	label_1_probability = 1.0117955900654757e-16
+	Actual label = 0, predicted label = 0
+
+	(201) 'idleness is the holiday of fools'
+	P(Class=0)=0.24378109452736318 (48/200)
+	P(Class=1)=0.7611940298507462 (152/200)
+	label_0_probability = 1.797117658067366e-08
+	label_1_probability = 1.0902758170374411e-09
+	Actual label = 0, predicted label = 0
+
+	(202) 'sometimes travel to new places leads to great transformation'
+	P(Class=0)=0.24752475247524752 (49/201)
+	P(Class=1)=0.7574257425742574 (152/201)
+	label_0_probability = 7.729378091641735e-14
+	label_1_probability = 2.1741889690959992e-16
+	Actual label = 0, predicted label = 0
+
+	(203) 'you never hesitate to tackle the most difficult problems'
+	P(Class=0)=0.2512315270935961 (50/202)
+	P(Class=1)=0.7536945812807881 (152/202)
+	label_0_probability = 8.47254384410446e-11
+	label_1_probability = 1.4018103926399778e-13
+	Actual label = 0, predicted label = 0
+
+	(204) 'share your insights with close friends'
+	P(Class=0)=0.2549019607843137 (51/203)
+	P(Class=1)=0.75 (152/203)
+	label_0_probability = 6.055362930649219e-10
+	label_1_probability = 1.0957758972736157e-10
+	Actual label = 0, predicted label = 0
+
+	(205) 'happiness begins with facing life with a smile and a wink'
+	P(Class=0)=0.25853658536585367 (52/204)
+	P(Class=1)=0.7463414634146341 (152/204)
+	label_0_probability = 1.9977857594857317e-12
+	label_1_probability = 1.7063795226594985e-14
+	Actual label = 0, predicted label = 0
+
+	(206) 'careful thinking will command respect'
+	P(Class=0)=0.2621359223300971 (53/205)
+	P(Class=1)=0.7427184466019418 (152/205)
+	label_0_probability = 2.6000203666969275e-11
+	label_1_probability = 1.8663382662623522e-11
+	Actual label = 0, predicted label = 0
+
+	(207) 'some pursue happiness you create it'
+	P(Class=0)=0.26570048309178745 (54/206)
+	P(Class=1)=0.7391304347826086 (152/206)
+	label_0_probability = 8.498522001025044e-08
+	label_1_probability = 2.1312771549295945e-09
+	Actual label = 0, predicted label = 0
+
+	(208) 'follow your dream of success and make it happen'
+	P(Class=0)=0.2692307692307692 (55/207)
+	P(Class=1)=0.7355769230769231 (152/207)
+	label_0_probability = 8.62176113523497e-12
+	label_1_probability = 1.539483240073938e-12
+	Actual label = 0, predicted label = 0
+
+	(209) 'do not let great ambitions overshadow small success'
+	P(Class=0)=0.2727272727272727 (56/208)
+	P(Class=1)=0.7320574162679426 (152/208)
+	label_0_probability = 5.89450621395399e-13
+	label_1_probability = 3.830463471713064e-14
+	Actual label = 0, predicted label = 0
+
+	(210) 'be confident in your lovability'
+	P(Class=0)=0.2761904761904762 (57/209)
+	P(Class=1)=0.7285714285714285 (152/209)
+	label_0_probability = 1.4089386955792965e-06
+	label_1_probability = 3.214270417798822e-07
+	Actual label = 0, predicted label = 0
+
+	(211) 'your principles mean more to you than any money or success'
+	P(Class=0)=0.2796208530805687 (58/210)
+	P(Class=1)=0.7251184834123223 (152/210)
+	label_0_probability = 6.337311632965396e-10
+	label_1_probability = 1.1456842720779741e-10
+	Actual label = 0, predicted label = 0
+
+	(212) 'the courage to be great lies within each of us'
+	P(Class=0)=0.2830188679245283 (59/211)
+	P(Class=1)=0.7216981132075472 (152/211)
+	label_0_probability = 3.550010575573301e-11
+	label_1_probability = 6.891672309896966e-13
+	Actual label = 0, predicted label = 0
+
+	(213) 'you are the only flower of meditation in the wilderness'
+	P(Class=0)=0.2863849765258216 (60/212)
+	P(Class=1)=0.7183098591549296 (152/212)
+	label_0_probability = 1.1230454232676478e-08
+	label_1_probability = 1.0288518273451904e-09
+	Actual label = 0, predicted label = 0
+
+	(214) 'sometimes even love shows a rerun'
+	P(Class=0)=0.2897196261682243 (61/213)
+	P(Class=1)=0.7149532710280374 (152/213)
+	label_0_probability = 1.8250090774150715e-11
+	label_1_probability = 8.80670887965102e-14
+	Actual label = 0, predicted label = 0
+
+	(215) 'everyone has ambitions'
+	P(Class=0)=0.2930232558139535 (62/214)
+	P(Class=1)=0.7116279069767442 (152/214)
+	label_0_probability = 2.7776903914991286e-06
+	label_1_probability = 3.139519942966287e-07
+	Actual label = 0, predicted label = 0
+
+	(216) 'you are a guiding star of his existence'
+	P(Class=0)=0.2962962962962963 (63/215)
+	P(Class=1)=0.7083333333333334 (152/215)
+	label_0_probability = 1.07426816990573e-08
+	label_1_probability = 2.0424739401408615e-09
+	Actual label = 0, predicted label = 0
+
+	(217) 'travelling more often is important for your health and happiness'
+	P(Class=0)=0.2995391705069124 (64/216)
+	P(Class=1)=0.7050691244239631 (152/216)
+	label_0_probability = 2.145299700726981e-11
+	label_1_probability = 1.077118737926392e-12
+	Actual label = 0, predicted label = 0
+
+	(218) 'you have an unusually magnetic personality'
+	P(Class=0)=0.30275229357798167 (65/217)
+	P(Class=1)=0.7018348623853211 (152/217)
+	label_0_probability = 1.0209574244034493e-08
+	label_1_probability = 4.07409939484399e-09
+	Actual label = 0, predicted label = 0
+
+	(219) 'do not give a man a fish but teach him how to fish'
+	P(Class=0)=0.3059360730593607 (66/218)
+	P(Class=1)=0.6986301369863014 (152/218)
+	label_0_probability = 3.064074288311423e-10
+	label_1_probability = 1.316663297431661e-11
+	Actual label = 0, predicted label = 0
+
+	(220) 'there is no wisdom greater than kindness'
+	P(Class=0)=0.3090909090909091 (67/219)
+	P(Class=1)=0.6954545454545454 (152/219)
+	label_0_probability = 2.0018331199503735e-08
+	label_1_probability = 3.02792765213899e-09
+	Actual label = 0, predicted label = 0
+
+	(221) 'what is the distance between the eyes and the soul'
+	P(Class=0)=0.31221719457013575 (68/220)
+	P(Class=1)=0.6923076923076923 (152/220)
+	label_0_probability = 9.761860612702128e-09
+	label_1_probability = 1.996264122490617e-09
+	Actual label = 0, predicted label = 0
+
+	(222) 'you are full of hopes about your future'
+	P(Class=0)=0.3153153153153153 (69/221)
+	P(Class=1)=0.6891891891891891 (152/221)
+	label_0_probability = 1.9605007315290192e-08
+	label_1_probability = 7.192031789221875e-09
+	Actual label = 0, predicted label = 0
+
+	(223) 'you are more likely to give than give in'
+	P(Class=0)=0.3183856502242152 (70/222)
+	P(Class=1)=0.6860986547085202 (152/222)
+	label_0_probability = 2.0952767164371794e-06
+	label_1_probability = 3.026891424832971e-07
+	Actual label = 0, predicted label = 0
+
+	(224) 'watch your relationships with people carefully be reserved'
+	P(Class=0)=0.32142857142857145 (71/223)
+	P(Class=1)=0.6830357142857143 (152/223)
+	label_0_probability = 4.76118980080447e-11
+	label_1_probability = 3.4327293111611103e-13
+	Actual label = 0, predicted label = 0
+
+	(225) 'success is the result of preparation hard work and learning from mistakes'
+	P(Class=0)=0.3244444444444444 (72/224)
+	P(Class=1)=0.68 (152/224)
+	label_0_probability = 2.7448407869591993e-15
+	label_1_probability = 3.72037311415569e-16
+	Actual label = 0, predicted label = 0
+
+	(226) 'constant grinding can turn an iron rod into a needle'
+	P(Class=0)=0.3274336283185841 (73/225)
+	P(Class=1)=0.6769911504424779 (152/225)
+	label_0_probability = 1.1993034974873945e-15
+	label_1_probability = 1.453437214602979e-17
+	Actual label = 0, predicted label = 0
+
+	(227) 'behind every good man is another good man'
+	P(Class=0)=0.3303964757709251 (74/226)
+	P(Class=1)=0.6740088105726872 (152/226)
+	label_0_probability = 2.9142827869938535e-12
+	label_1_probability = 2.2237798115306113e-12
+	Actual label = 0, predicted label = 0
+
+	(228) 'an inch of time is an inch of gold'
+	P(Class=0)=0.3333333333333333 (75/227)
+	P(Class=1)=0.6710526315789473 (152/227)
+	label_0_probability = 3.247369067480671e-08
+	label_1_probability = 1.021236970070431e-08
+	Actual label = 0, predicted label = 0
+
+	(229) 'you have an ability to sense and know a higher truth'
+	P(Class=0)=0.33624454148471616 (76/228)
+	P(Class=1)=0.6681222707423581 (152/228)
+	label_0_probability = 5.3458613903002346e-12
+	label_1_probability = 1.656798794171072e-13
+	Actual label = 0, predicted label = 0
+
+	(230) 'judge not according to the appearance'
+	P(Class=0)=0.3391304347826087 (77/229)
+	P(Class=1)=0.6652173913043479 (152/229)
+	label_0_probability = 1.5087700544375326e-08
+	label_1_probability = 9.52806257497935e-10
+	Actual label = 0, predicted label = 0
+
+	(231) 'never forget a friend especially if he owes you'
+	P(Class=0)=0.341991341991342 (78/230)
+	P(Class=1)=0.6623376623376623 (152/230)
+	label_0_probability = 1.8132406132865216e-11
+	label_1_probability = 7.538534213362026e-13
+	Actual label = 0, predicted label = 0
+
+	(232) 'to be mature is to accept imperfections'
+	P(Class=0)=0.3448275862068966 (79/231)
+	P(Class=1)=0.6594827586206896 (152/231)
+	label_0_probability = 7.113048259925484e-09
+	label_1_probability = 1.9016136684070115e-09
+	Actual label = 0, predicted label = 0
+
+	(233) 'a light heart carries you through all the hard times'
+	P(Class=0)=0.34763948497854075 (80/232)
+	P(Class=1)=0.6566523605150214 (152/232)
+	label_0_probability = 4.403167047558659e-12
+	label_1_probability = 7.473825765178652e-13
+	Actual label = 0, predicted label = 0
+
+	(234) 'advice when most needed is least heeded'
+	P(Class=0)=0.3504273504273504 (81/233)
+	P(Class=1)=0.6538461538461539 (152/233)
+	label_0_probability = 8.299265876068918e-11
+	label_1_probability = 2.4807375791184555e-11
+	Actual label = 0, predicted label = 0
+
+	(235) 'nothing in the world is accomplished without passion'
+	P(Class=0)=0.35319148936170214 (82/234)
+	P(Class=1)=0.6510638297872341 (152/234)
+	label_0_probability = 1.217756149534476e-11
+	label_1_probability = 2.437784377659858e-13
+	Actual label = 0, predicted label = 0
+
+	(236) 'failure is the mother of success'
+	P(Class=0)=0.3559322033898305 (83/235)
+	P(Class=1)=0.6483050847457628 (152/235)
+	label_0_probability = 3.378617293434225e-08
+	label_1_probability = 1.5672087015039524e-08
+	Actual label = 0, predicted label = 0
+
+	(237) 'smile to others honesty and friendship bring you fortune'
+	P(Class=0)=0.35864978902953587 (84/236)
+	P(Class=1)=0.6455696202531646 (152/236)
+	label_0_probability = 8.424873039593401e-13
+	label_1_probability = 1.9160897042606203e-13
+	Actual label = 0, predicted label = 0
+
+	(238) 'avoid taking unnecessary gambles'
+	P(Class=0)=0.36134453781512604 (85/237)
+	P(Class=1)=0.6428571428571429 (152/237)
+	label_0_probability = 7.074350578788905e-11
+	label_1_probability = 6.0181644209514275e-12
+	Actual label = 0, predicted label = 0
+
+	(239) 'magic time is created when unconventional person comes'
+	P(Class=0)=0.36401673640167365 (86/238)
+	P(Class=1)=0.6401673640167364 (152/238)
+	label_0_probability = 1.941263344119344e-13
+	label_1_probability = 1.6645726660566796e-14
+	Actual label = 0, predicted label = 0
+
+	(240) 'hell is paved with good intentions'
+	P(Class=0)=0.36666666666666664 (87/239)
+	P(Class=1)=0.6375 (152/239)
+	label_0_probability = 1.3102700989765072e-10
+	label_1_probability = 1.0586736194421513e-10
+	Actual label = 0, predicted label = 0
+
+	(241) 'confucius say you have heart as big as texas'
+	P(Class=0)=0.36929460580912865 (88/240)
+	P(Class=1)=0.6348547717842323 (152/240)
+	label_0_probability = 1.4260240401696932e-12
+	label_1_probability = 2.377092650415212e-13
+	Actual label = 0, predicted label = 0
+
+	(242) 'our first and last love is self-love'
+	P(Class=0)=0.371900826446281 (89/241)
+	P(Class=1)=0.6322314049586777 (152/241)
+	label_0_probability = 5.031695993082345e-10
+	label_1_probability = 1.1915258766013797e-11
+	Actual label = 0, predicted label = 0
+
+	(243) 'you have an unusual equipment for success use it properly'
+	P(Class=0)=0.37448559670781895 (90/242)
+	P(Class=1)=0.6296296296296297 (152/242)
+	label_0_probability = 4.064621311255827e-12
+	label_1_probability = 3.229771987567374e-13
+	Actual label = 0, predicted label = 0
+
+	(244) 'because of your melodic nature the moonlight never misses an appointment'
+	P(Class=0)=0.3770491803278688 (91/243)
+	P(Class=1)=0.6270491803278688 (152/243)
+	label_0_probability = 5.713131116146521e-14
+	label_1_probability = 7.622616246274371e-16
+	Actual label = 0, predicted label = 0
+
+	(245) 'never wear your best pants when you go to fight for freedom'
+	P(Class=0)=0.3795918367346939 (92/244)
+	P(Class=1)=0.6244897959183674 (152/244)
+	label_0_probability = 1.3109987694685778e-15
+	label_1_probability = 4.075438735494665e-17
+	Actual label = 0, predicted label = 0
+
+	(246) 'don't behave with cold manners'
+	P(Class=0)=0.3821138211382114 (93/245)
+	P(Class=1)=0.6219512195121951 (152/245)
+	label_0_probability = 4.67453654557899e-09
+	label_1_probability = 8.908351187988829e-10
+	Actual label = 0, predicted label = 0
+
+	(247) 'don't forget you are always on our minds'
+	P(Class=0)=0.38461538461538464 (94/246)
+	P(Class=1)=0.6194331983805668 (152/246)
+	label_0_probability = 2.871980973261703e-08
+	label_1_probability = 9.170404419989574e-09
+	Actual label = 0, predicted label = 0
+
+	(248) 'what you left behind is more mellow than wine'
+	P(Class=0)=0.3870967741935484 (95/247)
+	P(Class=1)=0.6169354838709677 (152/247)
+	label_0_probability = 9.677344195054534e-11
+	label_1_probability = 5.775496500751781e-12
+	Actual label = 0, predicted label = 0
+
+	(249) 'suppose you can get what you want'
+	P(Class=0)=0.3895582329317269 (96/248)
+	P(Class=1)=0.6144578313253012 (152/248)
+	label_0_probability = 4.900867013089191e-10
+	label_1_probability = 2.930627538207978e-10
+	Actual label = 0, predicted label = 0
+
+	(250) 'rest is a good thing but boredom is its brother'
+	P(Class=0)=0.392 (97/249)
+	P(Class=1)=0.612 (152/249)
+	label_0_probability = 2.8511787953581783e-12
+	label_1_probability = 6.642658004342909e-13
+	Actual label = 0, predicted label = 0
+
+	(251) 'you are filled with life's most precious treasure hope'
+	P(Class=0)=0.3944223107569721 (98/250)
+	P(Class=1)=0.6095617529880478 (152/250)
+	label_0_probability = 4.3857726311816147e-13
+	label_1_probability = 1.5115813699807792e-13
+	Actual label = 0, predicted label = 0
+
+	(252) 'don't ask don't say everything lies in silence'
+	P(Class=0)=0.3968253968253968 (99/251)
+	P(Class=1)=0.6071428571428571 (152/251)
+	label_0_probability = 1.5979680945322718e-11
+	label_1_probability = 1.5156858541655458e-13
+	Actual label = 0, predicted label = 0
+
+	(253) 'buy many dream boxes ask a friend to select one'
+	P(Class=0)=0.39920948616600793 (100/252)
+	P(Class=1)=0.6047430830039525 (152/252)
+	label_0_probability = 4.017319888612983e-17
+	label_1_probability = 9.065508635890775e-19
+	Actual label = 0, predicted label = 0
+
+	(254) 'this is really a lovely day congratulations'
+	P(Class=0)=0.4015748031496063 (101/253)
+	P(Class=1)=0.6023622047244095 (152/253)
+	label_0_probability = 7.585544189278276e-11
+	label_1_probability = 3.4508085550693036e-11
+	Actual label = 0, predicted label = 0
+
+	(255) 'pray for what you want but work for what you need'
+	P(Class=0)=0.403921568627451 (102/254)
+	P(Class=1)=0.6 (152/254)
+	label_0_probability = 2.258020663483915e-10
+	label_1_probability = 9.287881496219494e-11
+	Actual label = 0, predicted label = 0
+
+	(256) 'find release from your cares have a good time'
+	P(Class=0)=0.40625 (103/255)
+	P(Class=1)=0.59765625 (152/255)
+	label_0_probability = 8.876746788011925e-12
+	label_1_probability = 1.3875502310739557e-11
+	Actual label = 0, predicted label = 1
+
+	(257) 'you are a good listener'
+	P(Class=0)=0.4085603112840467 (104/256)
+	P(Class=1)=0.5953307392996109 (152/256)
+	label_0_probability = 1.9635375378809194e-06
+	label_1_probability = 4.6590879613771396e-06
+	Actual label = 0, predicted label = 1
+
+	(258) 'you are independent politically'
+	P(Class=0)=0.4108527131782946 (105/257)
+	P(Class=1)=0.5930232558139535 (152/257)
+	label_0_probability = 3.8191888737127985e-07
+	label_1_probability = 1.2995834186570698e-07
+	Actual label = 0, predicted label = 0
+
+	(259) 'pressure from a third party should not sway your decision'
+	P(Class=0)=0.41312741312741313 (106/258)
+	P(Class=1)=0.5907335907335908 (152/258)
+	label_0_probability = 3.1520771670075755e-13
+	label_1_probability = 1.0987162536907923e-13
+	Actual label = 0, predicted label = 0
+
+	(260) 'be alert practical and honest'
+	P(Class=0)=0.4153846153846154 (107/259)
+	P(Class=1)=0.5884615384615385 (152/259)
+	label_0_probability = 3.5142143335315575e-09
+	label_1_probability = 8.428670739404823e-10
+	Actual label = 0, predicted label = 0
+
+	(261) 'nothing is certain but the unforeseen'
+	P(Class=0)=0.41762452107279696 (108/260)
+	P(Class=1)=0.5862068965517241 (152/260)
+	label_0_probability = 1.4341360041146773e-08
+	label_1_probability = 3.402887617149389e-09
+	Actual label = 0, predicted label = 0
+
+	(262) 'be positive in word act and deed'
+	P(Class=0)=0.4198473282442748 (109/261)
+	P(Class=1)=0.583969465648855 (152/261)
+	label_0_probability = 3.143767845239523e-11
+	label_1_probability = 5.466882183917705e-12
+	Actual label = 0, predicted label = 0
+
+	(263) 'if a true sense of value is to be yours it must come through service'
+	P(Class=0)=0.4220532319391635 (110/262)
+	P(Class=1)=0.5817490494296578 (152/262)
+	label_0_probability = 1.0124584616786376e-14
+	label_1_probability = 1.0372611420424894e-14
+	Actual label = 0, predicted label = 1
+
+	(264) 'prosperity is in the family circle'
+	P(Class=0)=0.42424242424242425 (111/263)
+	P(Class=1)=0.5795454545454546 (152/263)
+	label_0_probability = 3.282351542366519e-09
+	label_1_probability = 3.364218439681775e-09
+	Actual label = 0, predicted label = 1
+
+	(265) 'smile when you are ready'
+	P(Class=0)=0.42641509433962266 (112/264)
+	P(Class=1)=0.5773584905660377 (152/264)
+	label_0_probability = 1.9075414484334064e-06
+	label_1_probability = 2.547157689576423e-07
+	Actual label = 0, predicted label = 0
+
+	(266) 'a perfect statue never comes from a bad mold'
+	P(Class=0)=0.42857142857142855 (113/265)
+	P(Class=1)=0.575187969924812 (152/265)
+	label_0_probability = 7.29164914909035e-14
+	label_1_probability = 1.4076350895623011e-15
+	Actual label = 0, predicted label = 0
+
+	(267) 'he who knows he has enough is rich'
+	P(Class=0)=0.4307116104868914 (114/266)
+	P(Class=1)=0.5730337078651685 (152/266)
+	label_0_probability = 3.1458772806796833e-09
+	label_1_probability = 2.4949216609384913e-09
+	Actual label = 0, predicted label = 0
+
+	(268) 'time is not measured by a watch but by moments'
+	P(Class=0)=0.43283582089552236 (115/267)
+	P(Class=1)=0.5708955223880597 (152/267)
+	label_0_probability = 6.063085403810647e-10
+	label_1_probability = 5.678519880403332e-11
+	Actual label = 0, predicted label = 0
+
+	(269) 'you have a capacity for enjoying life'
+	P(Class=0)=0.4349442379182156 (116/268)
+	P(Class=1)=0.5687732342007435 (152/268)
+	label_0_probability = 1.259513533997985e-08
+	label_1_probability = 1.1492005552943159e-08
+	Actual label = 0, predicted label = 0
+
+	(270) 'you are talented in many ways'
+	P(Class=0)=0.43703703703703706 (117/269)
+	P(Class=1)=0.5666666666666667 (152/269)
+	label_0_probability = 9.28672350052001e-09
+	label_1_probability = 7.707874069276417e-09
+	Actual label = 0, predicted label = 0
+
+	(271) 'your winsome smile is a delight to others'
+	P(Class=0)=0.43911439114391143 (118/270)
+	P(Class=1)=0.5645756457564576 (152/270)
+	label_0_probability = 1.1711013225491497e-09
+	label_1_probability = 4.3411992233252294e-11
+	Actual label = 0, predicted label = 0
+
+	(272) 'versatility is one of your outstanding traits'
+	P(Class=0)=0.4411764705882353 (119/271)
+	P(Class=1)=0.5625 (152/271)
+	label_0_probability = 1.2788253809788329e-10
+	label_1_probability = 1.6006922420957738e-11
+	Actual label = 0, predicted label = 0
+
+	(273) 'sweet memories are the paradise of the mind'
+	P(Class=0)=0.4432234432234432 (120/272)
+	P(Class=1)=0.5604395604395604 (152/272)
+	label_0_probability = 2.4115748738030606e-11
+	label_1_probability = 4.309395566011489e-11
+	Actual label = 0, predicted label = 1
+
+	(274) 'executive ability is prominent in your makeup'
+	P(Class=0)=0.44525547445255476 (121/273)
+	P(Class=1)=0.5583941605839416 (152/273)
+	label_0_probability = 7.177522611855589e-11
+	label_1_probability = 1.0523695698450143e-11
+	Actual label = 0, predicted label = 0
+
+	(275) 'strong and bitter words indicate a weak cause'
+	P(Class=0)=0.44727272727272727 (122/274)
+	P(Class=1)=0.5563636363636364 (152/274)
+	label_0_probability = 1.24442887910416e-14
+	label_1_probability = 4.479229234094624e-16
+	Actual label = 0, predicted label = 0
+
+	(276) 'your gentle ways are best'
+	P(Class=0)=0.4492753623188406 (123/275)
+	P(Class=1)=0.5543478260869565 (152/275)
+	label_0_probability = 1.1116125754405211e-08
+	label_1_probability = 3.239541275492985e-09
+	Actual label = 0, predicted label = 0
+
+	(277) 'generosity and perfection are your everlasting goals'
+	P(Class=0)=0.45126353790613716 (124/276)
+	P(Class=1)=0.5523465703971119 (152/276)
+	label_0_probability = 4.375354177054766e-11
+	label_1_probability = 5.170841632442027e-12
+	Actual label = 0, predicted label = 0
+
+	(278) 'fear of failure is the biggest obstacle to success'
+	P(Class=0)=0.45323741007194246 (125/277)
+	P(Class=1)=0.5503597122302158 (152/277)
+	label_0_probability = 5.023703074339352e-12
+	label_1_probability = 2.8231460179096105e-13
+	Actual label = 0, predicted label = 0
+
+	(279) 'talking does not teach'
+	P(Class=0)=0.4551971326164875 (126/278)
+	P(Class=1)=0.5483870967741935 (152/278)
+	label_0_probability = 6.672038950120873e-07
+	label_1_probability = 1.2017653118764292e-07
+	Actual label = 0, predicted label = 0
+
+	(280) 'your warmth is the glow which illuminates those around you'
+	P(Class=0)=0.45714285714285713 (127/279)
+	P(Class=1)=0.5464285714285714 (152/279)
+	label_0_probability = 2.0360351509761746e-11
+	label_1_probability = 1.0298187933483349e-11
+	Actual label = 0, predicted label = 0
+
+	(281) 'if you are waiting for something to turn up start on your own shirt sleeves'
+	P(Class=0)=0.45907473309608543 (128/280)
+	P(Class=1)=0.5444839857651246 (152/280)
+	label_0_probability = 2.4089849940527053e-15
+	label_1_probability = 4.5308811276263536e-15
+	Actual label = 0, predicted label = 1
+
+	(282) 'confucius say top of ladder nice place but very lonesome'
+	P(Class=0)=0.46099290780141844 (129/281)
+	P(Class=1)=0.5425531914893617 (152/281)
+	label_0_probability = 5.3475720665388325e-17
+	label_1_probability = 1.157047319947863e-17
+	Actual label = 0, predicted label = 0
+
+	(283) 'you like participating in competitive sports'
+	P(Class=0)=0.4628975265017668 (130/282)
+	P(Class=1)=0.5406360424028268 (152/282)
+	label_0_probability = 1.826736042608536e-11
+	label_1_probability = 1.0189019863517095e-11
+	Actual label = 0, predicted label = 0
+
+	(284) 'the night life is for you'
+	P(Class=0)=0.4647887323943662 (131/283)
+	P(Class=1)=0.5387323943661971 (152/283)
+	label_0_probability = 1.6042825338388808e-06
+	label_1_probability = 1.6654101145862012e-06
+	Actual label = 0, predicted label = 1
+
+	(285) 'maybe you can live on the moon in the next century'
+	P(Class=0)=0.4666666666666667 (132/284)
+	P(Class=1)=0.5368421052631579 (152/284)
+	label_0_probability = 6.244834300902236e-15
+	label_1_probability = 3.550006305171237e-15
+	Actual label = 0, predicted label = 0
+
+	(286) 'many receive advice only the wise profit by it'
+	P(Class=0)=0.46853146853146854 (133/285)
+	P(Class=1)=0.534965034965035 (152/285)
+	label_0_probability = 1.0496791848589458e-12
+	label_1_probability = 3.8294896075918175e-12
+	Actual label = 0, predicted label = 1
+
+	(287) 'example is better than advice'
+	P(Class=0)=0.47038327526132406 (134/286)
+	P(Class=1)=0.5331010452961672 (152/286)
+	label_0_probability = 6.80592050580396e-09
+	label_1_probability = 1.5371929305589757e-09
+	Actual label = 0, predicted label = 0
+
+	(288) 'you believe in the goodness of mankind'
+	P(Class=0)=0.4722222222222222 (135/287)
+	P(Class=1)=0.53125 (152/287)
+	label_0_probability = 2.2182815514679755e-09
+	label_1_probability = 7.609216639740465e-10
+	Actual label = 0, predicted label = 0
+
+	(289) 'wise men learn more from fools than fools learn from the wise'
+	P(Class=0)=0.4740484429065744 (136/288)
+	P(Class=1)=0.5294117647058824 (152/288)
+	label_0_probability = 1.9860574340759775e-10
+	label_1_probability = 1.506533874913672e-11
+	Actual label = 0, predicted label = 0
+
+	(290) 'you have a reputation for being straightforward and honest'
+	P(Class=0)=0.47586206896551725 (137/289)
+	P(Class=1)=0.5275862068965518 (152/289)
+	label_0_probability = 4.36984156988924e-09
+	label_1_probability = 7.556739283604326e-10
+	Actual label = 0, predicted label = 0
+
+	(291) 'in order to win you have to participate'
+	P(Class=0)=0.47766323024054985 (138/290)
+	P(Class=1)=0.5257731958762887 (152/290)
+	label_0_probability = 4.336864531780896e-09
+	label_1_probability = 7.530771107372005e-10
+	Actual label = 0, predicted label = 0
+
+	(292) 'you will have a long and wealthy live'
+	P(Class=0)=0.4794520547945205 (139/291)
+	P(Class=1)=0.523972602739726 (152/291)
+	label_0_probability = 5.821824839316826e-10
+	label_1_probability = 6.123530687995576e-09
+	Actual label = 0, predicted label = 1
+
+	(293) 'you are never selfish with your advice or help'
+	P(Class=0)=0.4812286689419795 (140/292)
+	P(Class=1)=0.5221843003412969 (152/292)
+	label_0_probability = 7.222769282668225e-10
+	label_1_probability = 6.022333486038399e-11
+	Actual label = 0, predicted label = 0
+
+	(294) 'what we love to do we find time to do'
+	P(Class=0)=0.48299319727891155 (141/293)
+	P(Class=1)=0.5204081632653061 (152/293)
+	label_0_probability = 1.8074764386831415e-07
+	label_1_probability = 3.20973902153313e-08
+	Actual label = 0, predicted label = 0
+
+	(295) 'in jealousy there is more selflove than love'
+	P(Class=0)=0.4847457627118644 (142/294)
+	P(Class=1)=0.5186440677966102 (152/294)
+	label_0_probability = 1.2783190247033771e-08
+	label_1_probability = 1.495506342611615e-09
+	Actual label = 0, predicted label = 0
+
+	(296) 'you have a lively family'
+	P(Class=0)=0.4864864864864865 (143/295)
+	P(Class=1)=0.5168918918918919 (152/295)
+	label_0_probability = 5.916699176081222e-07
+	label_1_probability = 2.2803945531680814e-07
+	Actual label = 0, predicted label = 0
+
+	(297) 'your good friend asks for your time not your money'
+	P(Class=0)=0.4882154882154882 (144/296)
+	P(Class=1)=0.5151515151515151 (152/296)
+	label_0_probability = 4.721639228657962e-11
+	label_1_probability = 3.6355319720854006e-11
+	Actual label = 0, predicted label = 0
+
+	(298) 'you are broad minded and socially active'
+	P(Class=0)=0.4899328859060403 (145/297)
+	P(Class=1)=0.5134228187919463 (152/297)
+	label_0_probability = 1.3657815531576147e-11
+	label_1_probability = 1.4610345296981554e-11
+	Actual label = 0, predicted label = 1
+
+	(299) 'ideas are like children there are none so wonderful as your own'
+	P(Class=0)=0.4916387959866221 (146/298)
+	P(Class=1)=0.5117056856187291 (152/298)
+	label_0_probability = 1.8317175739229914e-13
+	label_1_probability = 1.26891947780995e-13
+	Actual label = 0, predicted label = 0
+
+	(300) 'versatility is one of your outstanding traits'
+	P(Class=0)=0.49333333333333335 (147/299)
+	P(Class=1)=0.51 (152/299)
+	label_0_probability = 6.592739223116665e-10
+	label_1_probability = 1.4512942995001683e-11
+	Actual label = 0, predicted label = 0
+
+	(301) 'a true friend is like a good book the inside is better than the cover'
+	P(Class=0)=0.4950166112956811 (148/300)
+	P(Class=1)=0.5083056478405316 (152/300)
+	label_0_probability = 1.1931981551020074e-17
+	label_1_probability = 2.8654341279032264e-18
+	Actual label = 0, predicted label = 0
+
+	(302) 'flowers of true friendship never fade'
+	P(Class=0)=0.4966887417218543 (149/301)
+	P(Class=1)=0.5066225165562914 (152/301)
+	label_0_probability = 6.411229801527344e-12
+	label_1_probability = 8.70662514690914e-13
+	Actual label = 0, predicted label = 0
+
+	(303) 'a star is a forever light like a star let your wisdom shine'
+	P(Class=0)=0.49834983498349833 (150/302)
+	P(Class=1)=0.504950495049505 (152/302)
+	label_0_probability = 3.4698937552985426e-16
+	label_1_probability = 1.6259811265571173e-17
+	Actual label = 0, predicted label = 0
+
+	(304) 'you display the wonderful traits of charm and courtesy'
+	P(Class=0)=0.5 (151/303)
+	P(Class=1)=0.5032894736842105 (152/303)
+	label_0_probability = 4.561940433199246e-13
+	label_1_probability = 9.360773345589318e-14
+	Actual label = 0, predicted label = 0
+
+	(305) 'stop searching forever happiness is just next to you'
+	P(Class=0)=0.5016393442622951 (152/304)
+	P(Class=1)=0.5016393442622951 (152/304)
+	label_0_probability = 1.9738353140636203e-14
+	label_1_probability = 3.2951080418334744e-15
+	Actual label = 0, predicted label = 0
+
+	(306) 'he who hurries cannot walk with dignity'
+	P(Class=0)=0.5032679738562091 (153/305)
+	P(Class=1)=0.5 (152/305)
+	label_0_probability = 1.6430291180796637e-09
+	label_1_probability = 7.161615660932201e-10
+	Actual label = 0, predicted label = 0
+
+	(307) 'you seek to shield those you love and like the role of provider'
+	P(Class=0)=0.504885993485342 (154/306)
+	P(Class=1)=0.498371335504886 (152/306)
+	label_0_probability = 1.6377623820953188e-14
+	label_1_probability = 2.45533742821047e-15
+	Actual label = 0, predicted label = 0
+
+	(308) 'you are careful and systematic in your business arrangements'
+	P(Class=0)=0.5064935064935064 (155/307)
+	P(Class=1)=0.4967532467532468 (152/307)
+	label_0_probability = 2.0503675448334734e-11
+	label_1_probability = 1.8973631101690527e-11
+	Actual label = 0, predicted label = 0
+
+	(309) 'your mentality is alert practical and analytical'
+	P(Class=0)=0.5080906148867314 (156/308)
+	P(Class=1)=0.49514563106796117 (152/308)
+	label_0_probability = 4.0468334977628925e-11
+	label_1_probability = 4.635349942350936e-12
+	Actual label = 0, predicted label = 0
+
+	(310) 'be safe be discreet be honorable and have fun'
+	P(Class=0)=0.5096774193548387 (157/309)
+	P(Class=1)=0.4935483870967742 (152/309)
+	label_0_probability = 9.795472017189958e-12
+	label_1_probability = 4.620397200601419e-12
+	Actual label = 0, predicted label = 0
+
+	(311) 'you have great physical powers and an iron constitution'
+	P(Class=0)=0.5112540192926045 (158/310)
+	P(Class=1)=0.4919614147909968 (152/310)
+	label_0_probability = 7.533941704694823e-13
+	label_1_probability = 1.5454834288465883e-13
+	Actual label = 0, predicted label = 0
+
+	(312) 'giving credit where it is due ensures loyalty to you'
+	P(Class=0)=0.5128205128205128 (159/311)
+	P(Class=1)=0.49038461538461536 (152/311)
+	label_0_probability = 1.1777764534724185e-13
+	label_1_probability = 3.0005093266851894e-14
+	Actual label = 0, predicted label = 0
+
+	(313) 'every man is a volume if you know how to read him'
+	P(Class=0)=0.5143769968051118 (160/312)
+	P(Class=1)=0.48881789137380194 (152/312)
+	label_0_probability = 1.0529595509359273e-12
+	label_1_probability = 1.8302853953676266e-13
+	Actual label = 0, predicted label = 0
+
+	(314) 'you are one of the people who goes places in life'
+	P(Class=0)=0.5159235668789809 (161/313)
+	P(Class=1)=0.4872611464968153 (152/313)
+	label_0_probability = 2.02775775140941e-11
+	label_1_probability = 5.2159269308503215e-12
+	Actual label = 0, predicted label = 0
+
+	(315) 'depart not from the path which fate has you assigned'
+	P(Class=0)=0.5174603174603175 (162/314)
+	P(Class=1)=0.4857142857142857 (152/314)
+	label_0_probability = 8.674793908085924e-12
+	label_1_probability = 9.153944829762944e-12
+	Actual label = 0, predicted label = 1
+
+	(316) 'find release from your cares have a good time'
+	P(Class=0)=0.5189873417721519 (163/315)
+	P(Class=1)=0.48417721518987344 (152/315)
+	label_0_probability = 5.644801191827952e-11
+	label_1_probability = 1.1240913264396604e-11
+	Actual label = 0, predicted label = 0
+
+	(317) 'speak only well of people and you need never whisper'
+	P(Class=0)=0.5205047318611987 (164/316)
+	P(Class=1)=0.48264984227129337 (152/316)
+	label_0_probability = 8.867204220661667e-14
+	label_1_probability = 2.989190461207611e-14
+	Actual label = 0, predicted label = 0
+
+	(318) 'the only good is knowledge and the only evil ignorance'
+	P(Class=0)=0.5220125786163522 (165/317)
+	P(Class=1)=0.4811320754716981 (152/317)
+	label_0_probability = 1.5304069241415019e-10
+	label_1_probability = 7.989989580695487e-11
+	Actual label = 0, predicted label = 0
+
+	(319) 'the world is always ready to receive talent with open arms'
+	P(Class=0)=0.5235109717868338 (166/318)
+	P(Class=1)=0.47962382445141066 (152/318)
+	label_0_probability = 8.487045481571962e-17
+	label_1_probability = 1.2957733262250151e-17
+	Actual label = 0, predicted label = 0
+
+	(320) 'the richest person is the one who gives the most away'
+	P(Class=0)=0.525 (167/319)
+	P(Class=1)=0.478125 (152/319)
+	label_0_probability = 2.3106410804228343e-12
+	label_1_probability = 5.441879385270715e-13
+	Actual label = 0, predicted label = 0
+
+	(321) 'get away from home awhile to restore your energies '
+	P(Class=0)=0.5264797507788161 (168/320)
+	P(Class=1)=0.4766355140186916 (152/320)
+	label_0_probability = 4.823431297500811e-15
+	label_1_probability = 7.235151916520158e-15
+	Actual label = 0, predicted label = 1
+
+	(322) 'including others in your life will bring you great happiness'
+	P(Class=0)=0.5279503105590062 (169/321)
+	P(Class=1)=0.4751552795031056 (152/321)
+	label_0_probability = 1.1775083913874204e-13
+	label_1_probability = 6.14936131032092e-13
+	Actual label = 0, predicted label = 1
+
+Testing on train data set (accuracy be should > 90%) ...........
+Preprocesing data...
+Testing model accuracy.............
+	P(Class=0)=0.5294117647058824 (170/322)
+	P(Class=1)=0.47368421052631576 (152/322)
+	label_0_probability = 9.962785569484227e-16
+	label_1_probability = 9.388759654492822e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5277777777777778 (170/323)
+	P(Class=1)=0.47530864197530864 (153/323)
+	label_0_probability = 4.795852075602141e-09
+	label_1_probability = 1.3644714517500034e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5261538461538462 (170/324)
+	P(Class=1)=0.47692307692307695 (154/324)
+	label_0_probability = 1.3898058433451779e-11
+	label_1_probability = 4.045781971589895e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5245398773006135 (170/325)
+	P(Class=1)=0.4785276073619632 (155/325)
+	label_0_probability = 2.442509657482769e-10
+	label_1_probability = 1.9809279903188157e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5229357798165137 (170/326)
+	P(Class=1)=0.4801223241590214 (156/326)
+	label_0_probability = 2.3481202623775584e-16
+	label_1_probability = 1.1175782704415205e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5213414634146342 (170/327)
+	P(Class=1)=0.4817073170731707 (157/327)
+	label_0_probability = 1.1705300738539803e-09
+	label_1_probability = 1.0001643587774708e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5197568389057751 (170/328)
+	P(Class=1)=0.48328267477203646 (158/328)
+	label_0_probability = 6.952262714114216e-17
+	label_1_probability = 1.3256653565329207e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5181818181818182 (170/329)
+	P(Class=1)=0.48484848484848486 (159/329)
+	label_0_probability = 1.618969427407461e-14
+	label_1_probability = 2.581200783697171e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5166163141993958 (170/330)
+	P(Class=1)=0.486404833836858 (160/330)
+	label_0_probability = 7.303473575550872e-14
+	label_1_probability = 3.0145671665808e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5150602409638554 (170/331)
+	P(Class=1)=0.4879518072289157 (161/331)
+	label_0_probability = 8.098643191973476e-20
+	label_1_probability = 2.818980617573705e-17
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5135135135135135 (170/332)
+	P(Class=1)=0.4894894894894895 (162/332)
+	label_0_probability = 4.638750775882922e-16
+	label_1_probability = 2.6420067388776598e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5119760479041916 (170/333)
+	P(Class=1)=0.49101796407185627 (163/333)
+	label_0_probability = 1.3523559852909655e-11
+	label_1_probability = 7.691780626555714e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5104477611940299 (170/334)
+	P(Class=1)=0.4925373134328358 (164/334)
+	label_0_probability = 2.3488244605339153e-14
+	label_1_probability = 3.314165534296008e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5089285714285714 (170/335)
+	P(Class=1)=0.49404761904761907 (165/335)
+	label_0_probability = 9.248752991285042e-16
+	label_1_probability = 1.1778392117821599e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5074183976261127 (170/336)
+	P(Class=1)=0.49554896142433236 (166/336)
+	label_0_probability = 1.9186542530711973e-17
+	label_1_probability = 8.972886643851964e-16
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5059171597633136 (170/337)
+	P(Class=1)=0.4970414201183432 (167/337)
+	label_0_probability = 3.4203523233369334e-12
+	label_1_probability = 2.013409414498665e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.504424778761062 (170/338)
+	P(Class=1)=0.49852507374631266 (168/338)
+	label_0_probability = 1.6334872180017608e-13
+	label_1_probability = 2.1207320104270615e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5029411764705882 (170/339)
+	P(Class=1)=0.5 (169/339)
+	label_0_probability = 5.508376818136364e-11
+	label_1_probability = 7.873578785362193e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.501466275659824 (170/340)
+	P(Class=1)=0.501466275659824 (170/340)
+	label_0_probability = 6.461439082857913e-13
+	label_1_probability = 3.279140017840512e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5 (170/341)
+	P(Class=1)=0.5029239766081871 (171/341)
+	label_0_probability = 7.579465866028724e-15
+	label_1_probability = 7.41531421555481e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.49854227405247814 (170/342)
+	P(Class=1)=0.5043731778425656 (172/342)
+	label_0_probability = 9.511878904032306e-14
+	label_1_probability = 9.459280416606692e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.49709302325581395 (170/343)
+	P(Class=1)=0.5058139534883721 (173/343)
+	label_0_probability = 9.033665712417956e-16
+	label_1_probability = 1.8655070978704086e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4956521739130435 (170/344)
+	P(Class=1)=0.5072463768115942 (174/344)
+	label_0_probability = 3.923420292384252e-12
+	label_1_probability = 1.793416827763992e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.49421965317919075 (170/345)
+	P(Class=1)=0.5086705202312138 (175/345)
+	label_0_probability = 1.1875133229257896e-11
+	label_1_probability = 2.5497044482122556e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.49279538904899134 (170/346)
+	P(Class=1)=0.5100864553314121 (176/346)
+	label_0_probability = 1.106437649060822e-09
+	label_1_probability = 5.162989723467389e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.49137931034482757 (170/347)
+	P(Class=1)=0.5114942528735632 (177/347)
+	label_0_probability = 4.129285895672439e-15
+	label_1_probability = 1.8182028564376762e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4899713467048711 (170/348)
+	P(Class=1)=0.5128939828080229 (178/348)
+	label_0_probability = 1.9261425082479967e-13
+	label_1_probability = 1.5639541664551208e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.48857142857142855 (170/349)
+	P(Class=1)=0.5142857142857142 (179/349)
+	label_0_probability = 4.741387640927512e-12
+	label_1_probability = 1.5541963565373792e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.48717948717948717 (170/350)
+	P(Class=1)=0.5156695156695157 (180/350)
+	label_0_probability = 3.9485548805254066e-13
+	label_1_probability = 9.315482367352668e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.48579545454545453 (170/351)
+	P(Class=1)=0.5170454545454546 (181/351)
+	label_0_probability = 7.773259027376052e-14
+	label_1_probability = 2.315671464894051e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.48441926345609065 (170/352)
+	P(Class=1)=0.5184135977337111 (182/352)
+	label_0_probability = 4.702713851038563e-13
+	label_1_probability = 2.4043113518903816e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4830508474576271 (170/353)
+	P(Class=1)=0.519774011299435 (183/353)
+	label_0_probability = 1.1234599047159504e-09
+	label_1_probability = 9.663592474103703e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.48169014084507045 (170/354)
+	P(Class=1)=0.5211267605633803 (184/354)
+	label_0_probability = 3.085162866594793e-13
+	label_1_probability = 2.401549599365282e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4803370786516854 (170/355)
+	P(Class=1)=0.5224719101123596 (185/355)
+	label_0_probability = 4.580114881243949e-15
+	label_1_probability = 1.6247056547761197e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4789915966386555 (170/356)
+	P(Class=1)=0.5238095238095238 (186/356)
+	label_0_probability = 1.3941540262597634e-07
+	label_1_probability = 5.6710392089575194e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4776536312849162 (170/357)
+	P(Class=1)=0.5251396648044693 (187/357)
+	label_0_probability = 8.084960320598545e-17
+	label_1_probability = 2.9887874748576617e-15
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4763231197771588 (170/358)
+	P(Class=1)=0.5264623955431755 (188/358)
+	label_0_probability = 8.920808585137854e-09
+	label_1_probability = 3.7900364731697777e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.475 (170/359)
+	P(Class=1)=0.5277777777777778 (189/359)
+	label_0_probability = 1.5200398418944318e-20
+	label_1_probability = 4.2810197187828426e-17
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.47368421052631576 (170/360)
+	P(Class=1)=0.5290858725761773 (190/360)
+	label_0_probability = 3.064553917454753e-10
+	label_1_probability = 1.242295571866799e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4723756906077348 (170/361)
+	P(Class=1)=0.5303867403314917 (191/361)
+	label_0_probability = 1.2088393168497215e-16
+	label_1_probability = 1.3104443133559832e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.47107438016528924 (170/362)
+	P(Class=1)=0.5316804407713499 (192/362)
+	label_0_probability = 3.5496121135671723e-15
+	label_1_probability = 1.0869006224106815e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4697802197802198 (170/363)
+	P(Class=1)=0.532967032967033 (193/363)
+	label_0_probability = 8.798270005671674e-09
+	label_1_probability = 3.6521592843915316e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4684931506849315 (170/364)
+	P(Class=1)=0.5342465753424658 (194/364)
+	label_0_probability = 1.7220303337452485e-16
+	label_1_probability = 1.7898056517044846e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4672131147540984 (170/365)
+	P(Class=1)=0.5355191256830601 (195/365)
+	label_0_probability = 4.5356775667120575e-13
+	label_1_probability = 6.273838694482086e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4659400544959128 (170/366)
+	P(Class=1)=0.5367847411444142 (196/366)
+	label_0_probability = 1.0266293579305937e-10
+	label_1_probability = 7.446798732402239e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.46467391304347827 (170/367)
+	P(Class=1)=0.5380434782608695 (197/367)
+	label_0_probability = 8.495072509793328e-16
+	label_1_probability = 3.0885389373552816e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4634146341463415 (170/368)
+	P(Class=1)=0.5392953929539296 (198/368)
+	label_0_probability = 3.0570807519962338e-12
+	label_1_probability = 2.506279096445465e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.46216216216216216 (170/369)
+	P(Class=1)=0.5405405405405406 (199/369)
+	label_0_probability = 5.913760802872142e-10
+	label_1_probability = 2.4601470752668827e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4609164420485175 (170/370)
+	P(Class=1)=0.5417789757412399 (200/370)
+	label_0_probability = 4.953954038005754e-12
+	label_1_probability = 1.6342499819156424e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4596774193548387 (170/371)
+	P(Class=1)=0.543010752688172 (201/371)
+	label_0_probability = 4.199541413669667e-10
+	label_1_probability = 1.9597311836596427e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4584450402144772 (170/372)
+	P(Class=1)=0.5442359249329759 (202/372)
+	label_0_probability = 8.75205488657549e-13
+	label_1_probability = 7.002789213395177e-13
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.4572192513368984 (170/373)
+	P(Class=1)=0.5454545454545454 (203/373)
+	label_0_probability = 2.6983368684925974e-12
+	label_1_probability = 7.097014258122918e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.456 (170/374)
+	P(Class=1)=0.5466666666666666 (204/374)
+	label_0_probability = 1.2472889468144629e-11
+	label_1_probability = 1.0958094843286098e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.45478723404255317 (170/375)
+	P(Class=1)=0.5478723404255319 (205/375)
+	label_0_probability = 1.5119776605491424e-10
+	label_1_probability = 9.737152594657867e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4535809018567639 (170/376)
+	P(Class=1)=0.5490716180371353 (206/376)
+	label_0_probability = 4.514871586004202e-12
+	label_1_probability = 3.3225129722791606e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4523809523809524 (170/377)
+	P(Class=1)=0.5502645502645502 (207/377)
+	label_0_probability = 1.4492606435442278e-11
+	label_1_probability = 2.298083508020286e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.45118733509234826 (170/378)
+	P(Class=1)=0.5514511873350924 (208/378)
+	label_0_probability = 3.3997604148413764e-15
+	label_1_probability = 2.762501078414728e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.45 (170/379)
+	P(Class=1)=0.5526315789473685 (209/379)
+	label_0_probability = 3.327570380207729e-16
+	label_1_probability = 3.066917763684643e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.44881889763779526 (170/380)
+	P(Class=1)=0.5538057742782152 (210/380)
+	label_0_probability = 1.163418170018615e-12
+	label_1_probability = 1.8647234643178727e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4476439790575916 (170/381)
+	P(Class=1)=0.5549738219895288 (211/381)
+	label_0_probability = 1.53283950531178e-09
+	label_1_probability = 3.1495381192215843e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4464751958224543 (170/382)
+	P(Class=1)=0.556135770234987 (212/382)
+	label_0_probability = 2.9453336748997658e-12
+	label_1_probability = 7.464243821977147e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4453125 (170/383)
+	P(Class=1)=0.5572916666666666 (213/383)
+	label_0_probability = 5.063021531255317e-15
+	label_1_probability = 1.1221723556263462e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.44415584415584414 (170/384)
+	P(Class=1)=0.5584415584415584 (214/384)
+	label_0_probability = 1.0463675964047349e-13
+	label_1_probability = 9.724962085994761e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4430051813471503 (170/385)
+	P(Class=1)=0.5595854922279793 (215/385)
+	label_0_probability = 2.8373907192775935e-13
+	label_1_probability = 1.0846964406658242e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4418604651162791 (170/386)
+	P(Class=1)=0.5607235142118863 (216/386)
+	label_0_probability = 1.7906990681366588e-11
+	label_1_probability = 1.1744890209512173e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.44072164948453607 (170/387)
+	P(Class=1)=0.5618556701030928 (217/387)
+	label_0_probability = 4.00478369199767e-09
+	label_1_probability = 1.8734680939183894e-09
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.43958868894601544 (170/388)
+	P(Class=1)=0.5629820051413882 (218/388)
+	label_0_probability = 5.053083353779994e-09
+	label_1_probability = 5.0093877800130485e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.43846153846153846 (170/389)
+	P(Class=1)=0.5641025641025641 (219/389)
+	label_0_probability = 2.387834847578461e-16
+	label_1_probability = 1.3813234862200335e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4373401534526854 (170/390)
+	P(Class=1)=0.5652173913043478 (220/390)
+	label_0_probability = 1.6477795042365807e-08
+	label_1_probability = 3.1988329667080035e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4362244897959184 (170/391)
+	P(Class=1)=0.5663265306122449 (221/391)
+	label_0_probability = 1.137541374007754e-12
+	label_1_probability = 5.3252538441649845e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4351145038167939 (170/392)
+	P(Class=1)=0.5674300254452926 (222/392)
+	label_0_probability = 1.7341969566109827e-11
+	label_1_probability = 1.7023065814536802e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.434010152284264 (170/393)
+	P(Class=1)=0.5685279187817259 (223/393)
+	label_0_probability = 8.978866598465229e-09
+	label_1_probability = 1.032053526095933e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.43291139240506327 (170/394)
+	P(Class=1)=0.569620253164557 (224/394)
+	label_0_probability = 4.760776769374205e-14
+	label_1_probability = 9.271134173499756e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4318181818181818 (170/395)
+	P(Class=1)=0.5707070707070707 (225/395)
+	label_0_probability = 4.72941443981406e-11
+	label_1_probability = 8.281613735414541e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.43073047858942065 (170/396)
+	P(Class=1)=0.5717884130982368 (226/396)
+	label_0_probability = 1.9820055271507847e-14
+	label_1_probability = 7.258824081559688e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4296482412060301 (170/397)
+	P(Class=1)=0.5728643216080402 (227/397)
+	label_0_probability = 1.1137244290881707e-12
+	label_1_probability = 7.424009434931881e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.42857142857142855 (170/398)
+	P(Class=1)=0.5739348370927319 (228/398)
+	label_0_probability = 2.825192859081989e-08
+	label_1_probability = 7.815580608722736e-09
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.4275 (170/399)
+	P(Class=1)=0.575 (229/399)
+	label_0_probability = 5.861439326719657e-09
+	label_1_probability = 4.312573658646541e-09
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.42643391521197005 (170/400)
+	P(Class=1)=0.5760598503740648 (230/400)
+	label_0_probability = 3.2937098793536866e-07
+	label_1_probability = 3.957965329462895e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4253731343283582 (170/401)
+	P(Class=1)=0.5771144278606966 (231/401)
+	label_0_probability = 4.836319074631936e-15
+	label_1_probability = 1.2481308935272426e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.42431761786600497 (170/402)
+	P(Class=1)=0.5781637717121588 (232/402)
+	label_0_probability = 1.0186304204476247e-12
+	label_1_probability = 3.196201212683507e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.42326732673267325 (170/403)
+	P(Class=1)=0.5792079207920792 (233/403)
+	label_0_probability = 1.3374569318732185e-13
+	label_1_probability = 6.69848780589408e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4222222222222222 (170/404)
+	P(Class=1)=0.5802469135802469 (234/404)
+	label_0_probability = 1.4571915223683924e-14
+	label_1_probability = 2.8311564011587696e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4211822660098522 (170/405)
+	P(Class=1)=0.5812807881773399 (235/405)
+	label_0_probability = 4.476105500924408e-18
+	label_1_probability = 3.93011340447602e-17
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4201474201474201 (170/406)
+	P(Class=1)=0.5823095823095823 (236/406)
+	label_0_probability = 5.7143958255305095e-12
+	label_1_probability = 1.3324383044420667e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41911764705882354 (170/407)
+	P(Class=1)=0.5833333333333334 (237/407)
+	label_0_probability = 9.410143730982985e-10
+	label_1_probability = 2.3639197988041836e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4180929095354523 (170/408)
+	P(Class=1)=0.5843520782396088 (238/408)
+	label_0_probability = 2.677830849978363e-13
+	label_1_probability = 9.514277545653344e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4170731707317073 (170/409)
+	P(Class=1)=0.5853658536585366 (239/409)
+	label_0_probability = 5.374026164035484e-13
+	label_1_probability = 9.332752915728471e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41605839416058393 (170/410)
+	P(Class=1)=0.5863746958637469 (240/410)
+	label_0_probability = 5.2924600155603686e-14
+	label_1_probability = 2.422702728692134e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41504854368932037 (170/411)
+	P(Class=1)=0.587378640776699 (241/411)
+	label_0_probability = 1.1168684980963788e-16
+	label_1_probability = 1.2758867337948866e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41404358353510895 (170/412)
+	P(Class=1)=0.5883777239709443 (242/412)
+	label_0_probability = 1.560004324834149e-08
+	label_1_probability = 2.334181373663707e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41304347826086957 (170/413)
+	P(Class=1)=0.5893719806763285 (243/413)
+	label_0_probability = 4.439412918116274e-12
+	label_1_probability = 2.297366210617977e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41204819277108434 (170/414)
+	P(Class=1)=0.5903614457831325 (244/414)
+	label_0_probability = 1.0744969123157586e-12
+	label_1_probability = 9.49057979228283e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4110576923076923 (170/415)
+	P(Class=1)=0.5913461538461539 (245/415)
+	label_0_probability = 2.1843455809928804e-11
+	label_1_probability = 3.7296370653126066e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.41007194244604317 (170/416)
+	P(Class=1)=0.592326139088729 (246/416)
+	label_0_probability = 1.852241240861109e-09
+	label_1_probability = 1.4850444498454487e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4090909090909091 (170/417)
+	P(Class=1)=0.5933014354066986 (247/417)
+	label_0_probability = 1.3414664342365739e-12
+	label_1_probability = 3.074329090848329e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4081145584725537 (170/418)
+	P(Class=1)=0.594272076372315 (248/418)
+	label_0_probability = 1.945811104659582e-08
+	label_1_probability = 3.549234143910946e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.40714285714285714 (170/419)
+	P(Class=1)=0.5952380952380952 (249/419)
+	label_0_probability = 7.62516733824879e-09
+	label_1_probability = 6.254200787353145e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.40617577197149646 (170/420)
+	P(Class=1)=0.5961995249406176 (250/420)
+	label_0_probability = 2.130827815634703e-12
+	label_1_probability = 4.117139997582041e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4052132701421801 (170/421)
+	P(Class=1)=0.5971563981042654 (251/421)
+	label_0_probability = 1.0503846511305498e-12
+	label_1_probability = 7.500391432946198e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.40425531914893614 (170/422)
+	P(Class=1)=0.5981087470449172 (252/422)
+	label_0_probability = 8.907162514433276e-11
+	label_1_probability = 5.7712469702555095e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4033018867924528 (170/423)
+	P(Class=1)=0.5990566037735849 (253/423)
+	label_0_probability = 1.0381899167528334e-09
+	label_1_probability = 1.606433971174307e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4023529411764706 (170/424)
+	P(Class=1)=0.6 (254/424)
+	label_0_probability = 3.8181479212779533e-13
+	label_1_probability = 1.8399199864733914e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.4014084507042254 (170/425)
+	P(Class=1)=0.6009389671361502 (255/425)
+	label_0_probability = 9.181393146322832e-15
+	label_1_probability = 5.362588543655675e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.40046838407494145 (170/426)
+	P(Class=1)=0.6018735362997658 (256/426)
+	label_0_probability = 4.3042551477754945e-12
+	label_1_probability = 3.2105118714335567e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.39953271028037385 (170/427)
+	P(Class=1)=0.602803738317757 (257/427)
+	label_0_probability = 1.7167643604601012e-11
+	label_1_probability = 2.3413102470176236e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3986013986013986 (170/428)
+	P(Class=1)=0.6037296037296037 (258/428)
+	label_0_probability = 1.6231586484310497e-13
+	label_1_probability = 7.926478607133735e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.39767441860465114 (170/429)
+	P(Class=1)=0.6046511627906976 (259/429)
+	label_0_probability = 1.7722398251674573e-11
+	label_1_probability = 1.723225179252223e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.39675174013921116 (170/430)
+	P(Class=1)=0.605568445475638 (260/430)
+	label_0_probability = 2.682318063312955e-12
+	label_1_probability = 1.4760348821877114e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3958333333333333 (170/431)
+	P(Class=1)=0.6064814814814815 (261/431)
+	label_0_probability = 1.7442457185738576e-17
+	label_1_probability = 1.723370841758065e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.394919168591224 (170/432)
+	P(Class=1)=0.6073903002309469 (262/432)
+	label_0_probability = 4.5655779118759236e-10
+	label_1_probability = 9.944926793479462e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.39400921658986177 (170/433)
+	P(Class=1)=0.6082949308755761 (263/433)
+	label_0_probability = 1.2015785382951777e-14
+	label_1_probability = 1.4410072849881962e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3931034482758621 (170/434)
+	P(Class=1)=0.6091954022988506 (264/434)
+	label_0_probability = 4.065035263885535e-10
+	label_1_probability = 3.0026093888703838e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3922018348623853 (170/435)
+	P(Class=1)=0.6100917431192661 (265/435)
+	label_0_probability = 8.970810734709895e-15
+	label_1_probability = 7.246809309806824e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.391304347826087 (170/436)
+	P(Class=1)=0.6109839816933639 (266/436)
+	label_0_probability = 3.228945746004856e-11
+	label_1_probability = 1.6351788183384614e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3904109589041096 (170/437)
+	P(Class=1)=0.6118721461187214 (267/437)
+	label_0_probability = 7.437231306523882e-12
+	label_1_probability = 4.539841906168034e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3895216400911162 (170/438)
+	P(Class=1)=0.6127562642369021 (268/438)
+	label_0_probability = 6.359342954461807e-11
+	label_1_probability = 6.973184772103476e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3886363636363636 (170/439)
+	P(Class=1)=0.6136363636363636 (269/439)
+	label_0_probability = 2.1164899785354513e-16
+	label_1_probability = 7.563929809719812e-17
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3877551020408163 (170/440)
+	P(Class=1)=0.6145124716553289 (270/440)
+	label_0_probability = 1.460956431193883e-08
+	label_1_probability = 2.0958921926611323e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.38687782805429866 (170/441)
+	P(Class=1)=0.6153846153846154 (271/441)
+	label_0_probability = 7.0307262558185e-16
+	label_1_probability = 4.764775384333757e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3860045146726862 (170/442)
+	P(Class=1)=0.6162528216704289 (272/442)
+	label_0_probability = 2.5342235042386164e-05
+	label_1_probability = 2.0480332431885923e-05
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.38513513513513514 (170/443)
+	P(Class=1)=0.6171171171171171 (273/443)
+	label_0_probability = 8.809174505255662e-15
+	label_1_probability = 3.6199867586447745e-15
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3842696629213483 (170/444)
+	P(Class=1)=0.6179775280898876 (274/444)
+	label_0_probability = 5.045454553178337e-12
+	label_1_probability = 1.6275152186060815e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3834080717488789 (170/445)
+	P(Class=1)=0.6188340807174888 (275/445)
+	label_0_probability = 7.008952476830951e-09
+	label_1_probability = 1.6098075443164518e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3825503355704698 (170/446)
+	P(Class=1)=0.6196868008948546 (276/446)
+	label_0_probability = 1.3022279387547327e-16
+	label_1_probability = 1.3382203532097656e-15
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.38169642857142855 (170/447)
+	P(Class=1)=0.6205357142857143 (277/447)
+	label_0_probability = 7.89659249954307e-09
+	label_1_probability = 2.7570770227947316e-09
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.38084632516703787 (170/448)
+	P(Class=1)=0.621380846325167 (278/448)
+	label_0_probability = 3.481423840403111e-09
+	label_1_probability = 6.697704777761791e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.38 (170/449)
+	P(Class=1)=0.6222222222222222 (279/449)
+	label_0_probability = 1.716410216531297e-09
+	label_1_probability = 1.8917140132894693e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37915742793791574 (170/450)
+	P(Class=1)=0.623059866962306 (280/450)
+	label_0_probability = 4.97833098927796e-12
+	label_1_probability = 3.172925860690483e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37831858407079644 (170/451)
+	P(Class=1)=0.6238938053097345 (281/451)
+	label_0_probability = 1.3020305128374348e-10
+	label_1_probability = 1.0365472647631995e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37748344370860926 (170/452)
+	P(Class=1)=0.6247240618101545 (282/452)
+	label_0_probability = 1.4492867722366896e-07
+	label_1_probability = 1.5352671902394828e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3766519823788546 (170/453)
+	P(Class=1)=0.6255506607929515 (283/453)
+	label_0_probability = 2.963709454222143e-12
+	label_1_probability = 6.011286767449612e-13
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3758241758241758 (170/454)
+	P(Class=1)=0.6263736263736264 (284/454)
+	label_0_probability = 1.1529831121164582e-14
+	label_1_probability = 1.0269368561988681e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.375 (170/455)
+	P(Class=1)=0.6271929824561403 (285/455)
+	label_0_probability = 2.9082867667020454e-10
+	label_1_probability = 2.1246283017517281e-10
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3741794310722101 (170/456)
+	P(Class=1)=0.6280087527352297 (286/456)
+	label_0_probability = 4.821336383489171e-13
+	label_1_probability = 6.789071560194476e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37336244541484714 (170/457)
+	P(Class=1)=0.62882096069869 (287/457)
+	label_0_probability = 1.97234864063052e-18
+	label_1_probability = 2.592142251205347e-17
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37254901960784315 (170/458)
+	P(Class=1)=0.6296296296296297 (288/458)
+	label_0_probability = 8.36457220531819e-10
+	label_1_probability = 1.0471495139959095e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3717391304347826 (170/459)
+	P(Class=1)=0.6304347826086957 (289/459)
+	label_0_probability = 1.3728006542356523e-11
+	label_1_probability = 2.1067577215179395e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37093275488069416 (170/460)
+	P(Class=1)=0.631236442516269 (290/460)
+	label_0_probability = 4.6377410574845085e-20
+	label_1_probability = 1.0047729232306864e-19
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.37012987012987014 (170/461)
+	P(Class=1)=0.6320346320346321 (291/461)
+	label_0_probability = 1.0701858409102622e-10
+	label_1_probability = 7.176995616297043e-11
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3693304535637149 (170/462)
+	P(Class=1)=0.6328293736501079 (292/462)
+	label_0_probability = 2.0572800488448834e-13
+	label_1_probability = 1.450507642676116e-13
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.36853448275862066 (170/463)
+	P(Class=1)=0.6336206896551724 (293/463)
+	label_0_probability = 1.958378796752238e-11
+	label_1_probability = 5.670747561935625e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.36774193548387096 (170/464)
+	P(Class=1)=0.6344086021505376 (294/464)
+	label_0_probability = 5.042098345565297e-09
+	label_1_probability = 4.643786423713597e-09
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3669527896995708 (170/465)
+	P(Class=1)=0.6351931330472103 (295/465)
+	label_0_probability = 2.8175931483125745e-14
+	label_1_probability = 6.972797203839526e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.36616702355460384 (170/466)
+	P(Class=1)=0.6359743040685225 (296/466)
+	label_0_probability = 1.3467134976603495e-15
+	label_1_probability = 7.724942415593984e-15
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.36538461538461536 (170/467)
+	P(Class=1)=0.6367521367521367 (297/467)
+	label_0_probability = 3.3561551001393906e-16
+	label_1_probability = 1.6541441234751896e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3646055437100213 (170/468)
+	P(Class=1)=0.6375266524520256 (298/468)
+	label_0_probability = 2.863518742245906e-10
+	label_1_probability = 4.913682473734776e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3638297872340426 (170/469)
+	P(Class=1)=0.6382978723404256 (299/469)
+	label_0_probability = 2.8404367036657746e-16
+	label_1_probability = 5.5300139060937654e-17
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.3630573248407643 (170/470)
+	P(Class=1)=0.6390658174097664 (300/470)
+	label_0_probability = 1.6092963311015396e-10
+	label_1_probability = 2.001029762992413e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.3622881355932203 (170/471)
+	P(Class=1)=0.6398305084745762 (301/471)
+	label_0_probability = 1.3378989426872883e-11
+	label_1_probability = 4.2751634463032093e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.36152219873150104 (170/472)
+	P(Class=1)=0.6405919661733616 (302/472)
+	label_0_probability = 4.644164592808364e-11
+	label_1_probability = 9.283624651464093e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.36075949367088606 (170/473)
+	P(Class=1)=0.6413502109704642 (303/473)
+	label_0_probability = 5.958381550141504e-17
+	label_1_probability = 1.7692506352702968e-18
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.36 (170/474)
+	P(Class=1)=0.6421052631578947 (304/474)
+	label_0_probability = 1.2327256653244196e-09
+	label_1_probability = 1.6163580742199962e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.36134453781512604 (171/475)
+	P(Class=1)=0.6407563025210085 (304/475)
+	label_0_probability = 4.5833671003298e-12
+	label_1_probability = 2.6348409477094517e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.36268343815513626 (172/476)
+	P(Class=1)=0.639412997903564 (304/476)
+	label_0_probability = 3.2787968772973344e-13
+	label_1_probability = 1.0974145487997763e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.36401673640167365 (173/477)
+	P(Class=1)=0.6380753138075314 (304/477)
+	label_0_probability = 1.4347175091229143e-11
+	label_1_probability = 4.062626431324318e-11
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.3653444676409186 (174/478)
+	P(Class=1)=0.6367432150313153 (304/478)
+	label_0_probability = 4.347975061363885e-08
+	label_1_probability = 4.197047545229855e-07
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.36666666666666664 (175/479)
+	P(Class=1)=0.6354166666666666 (304/479)
+	label_0_probability = 2.321596819281413e-14
+	label_1_probability = 2.1525066758610032e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.367983367983368 (176/480)
+	P(Class=1)=0.6340956340956341 (304/480)
+	label_0_probability = 1.3609680773725327e-08
+	label_1_probability = 1.1248919336864223e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.36929460580912865 (177/481)
+	P(Class=1)=0.6327800829875518 (304/481)
+	label_0_probability = 8.722143863571119e-10
+	label_1_probability = 1.2142160565990054e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.37060041407867494 (178/482)
+	P(Class=1)=0.6314699792960663 (304/482)
+	label_0_probability = 5.253526364709662e-11
+	label_1_probability = 4.3565139459936764e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.371900826446281 (179/483)
+	P(Class=1)=0.6301652892561983 (304/483)
+	label_0_probability = 1.837043578659005e-12
+	label_1_probability = 2.426511657901233e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3731958762886598 (180/484)
+	P(Class=1)=0.6288659793814433 (304/484)
+	label_0_probability = 4.907801668240544e-12
+	label_1_probability = 1.2268440282884552e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.37448559670781895 (181/485)
+	P(Class=1)=0.6275720164609053 (304/485)
+	label_0_probability = 7.546329414808856e-10
+	label_1_probability = 1.849367062135712e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3757700205338809 (182/486)
+	P(Class=1)=0.6262833675564682 (304/486)
+	label_0_probability = 3.0969661100470897e-12
+	label_1_probability = 4.510941296123568e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3770491803278688 (183/487)
+	P(Class=1)=0.625 (304/487)
+	label_0_probability = 3.1174511244908427e-10
+	label_1_probability = 1.8417876889302363e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3783231083844581 (184/488)
+	P(Class=1)=0.623721881390593 (304/488)
+	label_0_probability = 6.483617152236168e-14
+	label_1_probability = 1.9883868570686982e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3795918367346939 (185/489)
+	P(Class=1)=0.6224489795918368 (304/489)
+	label_0_probability = 5.402818775885936e-10
+	label_1_probability = 7.806657322213439e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.38085539714867617 (186/490)
+	P(Class=1)=0.6211812627291242 (304/490)
+	label_0_probability = 2.9384410650125736e-10
+	label_1_probability = 2.57989029332138e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3821138211382114 (187/491)
+	P(Class=1)=0.6199186991869918 (304/491)
+	label_0_probability = 5.5964617590423895e-12
+	label_1_probability = 5.535799409940592e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.38336713995943206 (188/492)
+	P(Class=1)=0.6186612576064908 (304/492)
+	label_0_probability = 3.770668352785061e-16
+	label_1_probability = 6.425589104301668e-20
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.38461538461538464 (189/493)
+	P(Class=1)=0.6174089068825911 (304/493)
+	label_0_probability = 9.952310603461463e-12
+	label_1_probability = 1.6186991085156285e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.38585858585858585 (190/494)
+	P(Class=1)=0.6161616161616161 (304/494)
+	label_0_probability = 1.0401386665688344e-10
+	label_1_probability = 5.483181910598581e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3870967741935484 (191/495)
+	P(Class=1)=0.6149193548387096 (304/495)
+	label_0_probability = 7.643227486846972e-11
+	label_1_probability = 1.0800723013876738e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.38832997987927564 (192/496)
+	P(Class=1)=0.613682092555332 (304/496)
+	label_0_probability = 1.0649985000038576e-15
+	label_1_probability = 1.7789668115433533e-18
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3895582329317269 (193/497)
+	P(Class=1)=0.6124497991967871 (304/497)
+	label_0_probability = 4.67251431862129e-09
+	label_1_probability = 1.0864920082392953e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3907815631262525 (194/498)
+	P(Class=1)=0.6112224448897795 (304/498)
+	label_0_probability = 1.6320558818814156e-11
+	label_1_probability = 2.1364318402721012e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.392 (195/499)
+	P(Class=1)=0.61 (304/499)
+	label_0_probability = 4.297130844535273e-14
+	label_1_probability = 2.7234101242048876e-17
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3932135728542914 (196/500)
+	P(Class=1)=0.6087824351297405 (304/500)
+	label_0_probability = 1.9089152520411267e-12
+	label_1_probability = 5.363876298386009e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3944223107569721 (197/501)
+	P(Class=1)=0.6075697211155379 (304/501)
+	label_0_probability = 1.1140275455266033e-13
+	label_1_probability = 3.337523964359319e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3956262425447316 (198/502)
+	P(Class=1)=0.6063618290258449 (304/502)
+	label_0_probability = 1.78855452777651e-10
+	label_1_probability = 2.8640807222022218e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.3968253968253968 (199/503)
+	P(Class=1)=0.6051587301587301 (304/503)
+	label_0_probability = 1.6204031212503757e-09
+	label_1_probability = 8.35060803057217e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.39801980198019804 (200/504)
+	P(Class=1)=0.6039603960396039 (304/504)
+	label_0_probability = 1.628039794438969e-10
+	label_1_probability = 7.574776411652642e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.39920948616600793 (201/505)
+	P(Class=1)=0.6027667984189723 (304/505)
+	label_0_probability = 6.291356730256581e-13
+	label_1_probability = 8.20790600674396e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.40039447731755423 (202/506)
+	P(Class=1)=0.6015779092702169 (304/506)
+	label_0_probability = 6.711040478593685e-12
+	label_1_probability = 8.191716843022586e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4015748031496063 (203/507)
+	P(Class=1)=0.6003937007874016 (304/507)
+	label_0_probability = 1.646612199205253e-10
+	label_1_probability = 3.815055251539481e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4027504911591356 (204/508)
+	P(Class=1)=0.5992141453831041 (304/508)
+	label_0_probability = 2.883605629993477e-10
+	label_1_probability = 5.332367476908253e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.403921568627451 (205/509)
+	P(Class=1)=0.5980392156862745 (304/509)
+	label_0_probability = 5.769176632183187e-13
+	label_1_probability = 1.0400230275447214e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4050880626223092 (206/510)
+	P(Class=1)=0.5968688845401174 (304/510)
+	label_0_probability = 4.0842354210764665e-07
+	label_1_probability = 9.752439924647346e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.40625 (207/511)
+	P(Class=1)=0.595703125 (304/511)
+	label_0_probability = 2.1298010100880773e-12
+	label_1_probability = 2.3789494972880058e-12
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.4074074074074074 (208/512)
+	P(Class=1)=0.594541910331384 (304/512)
+	label_0_probability = 1.4898141169663702e-12
+	label_1_probability = 1.0339410215356895e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4085603112840467 (209/513)
+	P(Class=1)=0.5933852140077821 (304/513)
+	label_0_probability = 1.4113802998003497e-10
+	label_1_probability = 1.0422487577593136e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4097087378640777 (210/514)
+	P(Class=1)=0.5922330097087378 (304/514)
+	label_0_probability = 7.877408733070096e-13
+	label_1_probability = 5.722058839394903e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4108527131782946 (211/515)
+	P(Class=1)=0.5910852713178295 (304/515)
+	label_0_probability = 8.736455059428374e-11
+	label_1_probability = 1.1789076535610005e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4119922630560928 (212/516)
+	P(Class=1)=0.5899419729206963 (304/516)
+	label_0_probability = 7.49057169007931e-15
+	label_1_probability = 8.056093393088588e-17
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.41312741312741313 (213/517)
+	P(Class=1)=0.5888030888030888 (304/517)
+	label_0_probability = 1.572637607830495e-13
+	label_1_probability = 2.3972328665272013e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4142581888246628 (214/518)
+	P(Class=1)=0.5876685934489403 (304/518)
+	label_0_probability = 7.1963272100507685e-09
+	label_1_probability = 3.148233868091085e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4153846153846154 (215/519)
+	P(Class=1)=0.5865384615384616 (304/519)
+	label_0_probability = 5.137922795372409e-10
+	label_1_probability = 2.436011796193842e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4165067178502879 (216/520)
+	P(Class=1)=0.5854126679462572 (304/520)
+	label_0_probability = 3.157016724174346e-13
+	label_1_probability = 9.848595833473859e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.41762452107279696 (217/521)
+	P(Class=1)=0.5842911877394636 (304/521)
+	label_0_probability = 1.0725382165578344e-15
+	label_1_probability = 3.0941598665578122e-18
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4187380497131931 (218/522)
+	P(Class=1)=0.5831739961759083 (304/522)
+	label_0_probability = 5.08901278512195e-09
+	label_1_probability = 1.0345564437919094e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4198473282442748 (219/523)
+	P(Class=1)=0.5820610687022901 (304/523)
+	label_0_probability = 2.288811413461372e-15
+	label_1_probability = 6.724517732827851e-18
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42095238095238097 (220/524)
+	P(Class=1)=0.580952380952381 (304/524)
+	label_0_probability = 5.648217139625641e-12
+	label_1_probability = 5.613067242454057e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4220532319391635 (221/525)
+	P(Class=1)=0.5798479087452472 (304/525)
+	label_0_probability = 5.927431049642658e-11
+	label_1_probability = 1.5792814818549145e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42314990512333966 (222/526)
+	P(Class=1)=0.5787476280834914 (304/526)
+	label_0_probability = 2.3314788937657864e-13
+	label_1_probability = 8.954394106974425e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42424242424242425 (223/527)
+	P(Class=1)=0.5776515151515151 (304/527)
+	label_0_probability = 2.4069230430554994e-12
+	label_1_probability = 1.3553995454610528e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42533081285444235 (224/528)
+	P(Class=1)=0.5765595463137996 (304/528)
+	label_0_probability = 2.9253967156261476e-08
+	label_1_probability = 3.088720940527929e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42641509433962266 (225/529)
+	P(Class=1)=0.5754716981132075 (304/529)
+	label_0_probability = 3.0687989265661524e-12
+	label_1_probability = 1.231984180140825e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4274952919020716 (226/530)
+	P(Class=1)=0.5743879472693032 (304/530)
+	label_0_probability = 1.2842608700724156e-13
+	label_1_probability = 2.6439253981893457e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42857142857142855 (227/531)
+	P(Class=1)=0.5733082706766918 (304/531)
+	label_0_probability = 6.906999980184057e-07
+	label_1_probability = 9.367475190779674e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.42964352720450283 (228/532)
+	P(Class=1)=0.5722326454033771 (304/532)
+	label_0_probability = 2.0666757309608482e-10
+	label_1_probability = 1.5801757969277895e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4307116104868914 (229/533)
+	P(Class=1)=0.5711610486891385 (304/533)
+	label_0_probability = 3.6281185724506747e-12
+	label_1_probability = 5.100399456349759e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.43177570093457945 (230/534)
+	P(Class=1)=0.5700934579439252 (304/534)
+	label_0_probability = 2.9549741030574496e-09
+	label_1_probability = 1.0113514394451751e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.43283582089552236 (231/535)
+	P(Class=1)=0.5690298507462687 (304/535)
+	label_0_probability = 2.305948993417309e-12
+	label_1_probability = 3.276950461758545e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4338919925512104 (232/536)
+	P(Class=1)=0.5679702048417132 (304/536)
+	label_0_probability = 1.3724650974753014e-06
+	label_1_probability = 9.280254751386949e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4349442379182156 (233/537)
+	P(Class=1)=0.5669144981412639 (304/537)
+	label_0_probability = 4.381627013281473e-09
+	label_1_probability = 3.037050887619474e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4359925788497217 (234/538)
+	P(Class=1)=0.5658627087198516 (304/538)
+	label_0_probability = 2.2105180009161855e-12
+	label_1_probability = 1.17889720963658e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.43703703703703706 (235/539)
+	P(Class=1)=0.5648148148148148 (304/539)
+	label_0_probability = 2.861541625017334e-09
+	label_1_probability = 9.137324535193965e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.43807763401109057 (236/540)
+	P(Class=1)=0.5637707948243993 (304/540)
+	label_0_probability = 1.858830614259982e-10
+	label_1_probability = 9.90232646004226e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.43911439114391143 (237/541)
+	P(Class=1)=0.5627306273062731 (304/541)
+	label_0_probability = 7.159953683337245e-09
+	label_1_probability = 5.057780066796608e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44014732965009207 (238/542)
+	P(Class=1)=0.5616942909760589 (304/542)
+	label_0_probability = 2.8169058837756566e-09
+	label_1_probability = 3.0090854098329225e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4411764705882353 (239/543)
+	P(Class=1)=0.5606617647058824 (304/543)
+	label_0_probability = 5.6598271017626146e-09
+	label_1_probability = 1.3459612306195203e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44220183486238535 (240/544)
+	P(Class=1)=0.5596330275229358 (304/544)
+	label_0_probability = 1.0234216214838519e-06
+	label_1_probability = 9.144030828430809e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4432234432234432 (241/545)
+	P(Class=1)=0.5586080586080586 (304/545)
+	label_0_probability = 8.133539425020155e-12
+	label_1_probability = 2.2970408262082433e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44424131627056673 (242/546)
+	P(Class=1)=0.5575868372943327 (304/546)
+	label_0_probability = 2.806228731703015e-16
+	label_1_probability = 1.9632509186158633e-17
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44525547445255476 (243/547)
+	P(Class=1)=0.5565693430656934 (304/547)
+	label_0_probability = 1.4562443217757054e-16
+	label_1_probability = 2.4602606455561924e-19
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44626593806921677 (244/548)
+	P(Class=1)=0.5555555555555556 (304/548)
+	label_0_probability = 5.286953173855848e-12
+	label_1_probability = 1.8455084721401926e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.44727272727272727 (245/549)
+	P(Class=1)=0.5545454545454546 (304/549)
+	label_0_probability = 1.9277694580492207e-08
+	label_1_probability = 1.986390973391106e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4482758620689655 (246/550)
+	P(Class=1)=0.5535390199637024 (304/550)
+	label_0_probability = 1.663542274040865e-12
+	label_1_probability = 9.626347441883994e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4492753623188406 (247/551)
+	P(Class=1)=0.552536231884058 (304/551)
+	label_0_probability = 5.1977712934675706e-09
+	label_1_probability = 9.802047465637105e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45027124773960214 (248/552)
+	P(Class=1)=0.5515370705244123 (304/552)
+	label_0_probability = 9.688907333642827e-12
+	label_1_probability = 8.152977254078626e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45126353790613716 (249/553)
+	P(Class=1)=0.5505415162454874 (304/553)
+	label_0_probability = 2.537154457892197e-09
+	label_1_probability = 2.949338226605189e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45225225225225224 (250/554)
+	P(Class=1)=0.5495495495495496 (304/554)
+	label_0_probability = 1.491501024245557e-12
+	label_1_probability = 8.123597155865735e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45323741007194246 (251/555)
+	P(Class=1)=0.5485611510791367 (304/555)
+	label_0_probability = 5.036656192221948e-11
+	label_1_probability = 2.9096327686075785e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4542190305206463 (252/556)
+	P(Class=1)=0.547576301615799 (304/556)
+	label_0_probability = 2.8440478669518798e-12
+	label_1_probability = 1.5976543224806806e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4551971326164875 (253/557)
+	P(Class=1)=0.546594982078853 (304/557)
+	label_0_probability = 2.3048446701863354e-08
+	label_1_probability = 4.6036071402789725e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4561717352415027 (254/558)
+	P(Class=1)=0.5456171735241503 (304/558)
+	label_0_probability = 2.4298317812674343e-13
+	label_1_probability = 3.6012669887200825e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45714285714285713 (255/559)
+	P(Class=1)=0.5446428571428571 (304/559)
+	label_0_probability = 1.884029505822766e-11
+	label_1_probability = 3.167874824960002e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45811051693404636 (256/560)
+	P(Class=1)=0.5436720142602496 (304/560)
+	label_0_probability = 5.747783327996994e-14
+	label_1_probability = 1.0501391675401093e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.45907473309608543 (257/561)
+	P(Class=1)=0.5427046263345195 (304/561)
+	label_0_probability = 1.0410383940762217e-10
+	label_1_probability = 1.0852969021804093e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46003552397868563 (258/562)
+	P(Class=1)=0.5417406749555951 (304/562)
+	label_0_probability = 8.563086732788698e-13
+	label_1_probability = 1.5806278110510428e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46099290780141844 (259/563)
+	P(Class=1)=0.5407801418439716 (304/563)
+	label_0_probability = 2.0422298918230495e-10
+	label_1_probability = 9.498508182416423e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46194690265486726 (260/564)
+	P(Class=1)=0.5398230088495575 (304/564)
+	label_0_probability = 9.17809539206322e-13
+	label_1_probability = 1.6184745023059974e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4628975265017668 (261/565)
+	P(Class=1)=0.5388692579505301 (304/565)
+	label_0_probability = 1.1512555283260012e-14
+	label_1_probability = 1.7070383492373147e-17
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4638447971781305 (262/566)
+	P(Class=1)=0.5379188712522046 (304/566)
+	label_0_probability = 2.7304379260478297e-16
+	label_1_probability = 1.2047084799588143e-18
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4647887323943662 (263/567)
+	P(Class=1)=0.5369718309859155 (304/567)
+	label_0_probability = 2.182843822910596e-09
+	label_1_probability = 9.525933452520588e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46572934973637964 (264/568)
+	P(Class=1)=0.5360281195079086 (304/568)
+	label_0_probability = 1.5639231024961644e-08
+	label_1_probability = 2.654043138677521e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4666666666666667 (265/569)
+	P(Class=1)=0.5350877192982456 (304/569)
+	label_0_probability = 3.296498979752961e-11
+	label_1_probability = 3.1122980736449215e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46760070052539404 (266/570)
+	P(Class=1)=0.5341506129597198 (304/570)
+	label_0_probability = 3.5061472775678386e-10
+	label_1_probability = 7.618958297873357e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.46853146853146854 (267/571)
+	P(Class=1)=0.5332167832167832 (304/571)
+	label_0_probability = 1.5052431535804718e-12
+	label_1_probability = 3.496141574145308e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4694589877835951 (268/572)
+	P(Class=1)=0.5322862129144852 (304/572)
+	label_0_probability = 1.1762290951513466e-13
+	label_1_probability = 9.256749459822129e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.47038327526132406 (269/573)
+	P(Class=1)=0.5313588850174216 (304/573)
+	label_0_probability = 8.213997805276898e-12
+	label_1_probability = 7.23554083521332e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.47130434782608693 (270/574)
+	P(Class=1)=0.5304347826086957 (304/574)
+	label_0_probability = 1.4519556121835827e-17
+	label_1_probability = 1.6418990503408407e-20
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4722222222222222 (271/575)
+	P(Class=1)=0.5295138888888888 (304/575)
+	label_0_probability = 3.0045152579544084e-11
+	label_1_probability = 4.712109454420665e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4731369150779896 (272/576)
+	P(Class=1)=0.5285961871750433 (304/576)
+	label_0_probability = 1.3624613943506166e-10
+	label_1_probability = 2.0019989649515248e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4740484429065744 (273/577)
+	P(Class=1)=0.527681660899654 (304/577)
+	label_0_probability = 2.7882353854781484e-11
+	label_1_probability = 2.1096344573340765e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4749568221070812 (274/578)
+	P(Class=1)=0.5267702936096719 (304/578)
+	label_0_probability = 1.975688169244523e-06
+	label_1_probability = 2.959269100840521e-06
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.47586206896551725 (275/579)
+	P(Class=1)=0.5258620689655172 (304/579)
+	label_0_probability = 2.708936732693826e-07
+	label_1_probability = 2.8452977781287344e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.47676419965576594 (276/580)
+	P(Class=1)=0.5249569707401033 (304/580)
+	label_0_probability = 1.0347605728946824e-13
+	label_1_probability = 5.072048713060889e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.47766323024054985 (277/581)
+	P(Class=1)=0.5240549828178694 (304/581)
+	label_0_probability = 6.652077597872942e-09
+	label_1_probability = 9.296787286996038e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.47855917667238423 (278/582)
+	P(Class=1)=0.5231560891938251 (304/582)
+	label_0_probability = 7.943495268130563e-09
+	label_1_probability = 8.463388077195102e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4794520547945205 (279/583)
+	P(Class=1)=0.5222602739726028 (304/583)
+	label_0_probability = 1.3879818316970908e-11
+	label_1_probability = 3.0376881883178163e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.48034188034188036 (280/584)
+	P(Class=1)=0.5213675213675214 (304/584)
+	label_0_probability = 5.727457009880554e-15
+	label_1_probability = 6.749286747225933e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4812286689419795 (281/585)
+	P(Class=1)=0.5204778156996587 (304/585)
+	label_0_probability = 2.8535834825272198e-09
+	label_1_probability = 8.420060151885214e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.48211243611584326 (282/586)
+	P(Class=1)=0.5195911413969335 (304/586)
+	label_0_probability = 2.2781012541745734e-06
+	label_1_probability = 8.489773086021782e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.48299319727891155 (283/587)
+	P(Class=1)=0.5187074829931972 (304/587)
+	label_0_probability = 2.52051781400104e-14
+	label_1_probability = 4.9620467136262814e-17
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4838709677419355 (284/588)
+	P(Class=1)=0.5178268251273345 (304/588)
+	label_0_probability = 1.8622738596706726e-09
+	label_1_probability = 4.6541881090046934e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4847457627118644 (285/589)
+	P(Class=1)=0.5169491525423728 (304/589)
+	label_0_probability = 3.5555964151590475e-10
+	label_1_probability = 6.071214422701351e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4856175972927242 (286/590)
+	P(Class=1)=0.5160744500846024 (304/590)
+	label_0_probability = 1.0464268838638483e-08
+	label_1_probability = 2.484287911969377e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4864864864864865 (287/591)
+	P(Class=1)=0.5152027027027027 (304/591)
+	label_0_probability = 9.845551869258859e-09
+	label_1_probability = 1.6397781312745104e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4873524451939292 (288/592)
+	P(Class=1)=0.5143338954468802 (304/592)
+	label_0_probability = 6.204046459550479e-10
+	label_1_probability = 6.450694920547369e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4882154882154882 (289/593)
+	P(Class=1)=0.5134680134680135 (304/593)
+	label_0_probability = 3.8764868311300574e-10
+	label_1_probability = 1.5131185053837638e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4890756302521008 (290/594)
+	P(Class=1)=0.5126050420168067 (304/594)
+	label_0_probability = 1.2441359493447121e-11
+	label_1_probability = 6.42901191241107e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4899328859060403 (291/595)
+	P(Class=1)=0.511744966442953 (304/595)
+	label_0_probability = 3.7456516993484975e-11
+	label_1_probability = 8.988521165910843e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.490787269681742 (292/596)
+	P(Class=1)=0.5108877721943048 (304/596)
+	label_0_probability = 4.6692997361419626e-15
+	label_1_probability = 9.646294024782796e-18
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4916387959866221 (293/597)
+	P(Class=1)=0.5100334448160535 (304/597)
+	label_0_probability = 7.117208349416687e-09
+	label_1_probability = 6.46072693773149e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49248747913188645 (294/598)
+	P(Class=1)=0.5091819699499165 (304/598)
+	label_0_probability = 2.3960086572799043e-11
+	label_1_probability = 2.9616192019659437e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49333333333333335 (295/599)
+	P(Class=1)=0.5083333333333333 (304/599)
+	label_0_probability = 2.362502007855845e-12
+	label_1_probability = 1.5240634896714782e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49417637271214643 (296/600)
+	P(Class=1)=0.5074875207986689 (304/600)
+	label_0_probability = 5.123855407441938e-07
+	label_1_probability = 2.7458780554320573e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4950166112956811 (297/601)
+	P(Class=1)=0.5066445182724253 (304/601)
+	label_0_probability = 1.1577755829731478e-11
+	label_1_probability = 8.898934576217379e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49585406301824214 (298/602)
+	P(Class=1)=0.5058043117744611 (304/602)
+	label_0_probability = 1.0394734807098635e-15
+	label_1_probability = 2.665519594189702e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4966887417218543 (299/603)
+	P(Class=1)=0.5049668874172185 (304/603)
+	label_0_probability = 2.0650061542531436e-17
+	label_1_probability = 2.8507227370621675e-19
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.4975206611570248 (300/604)
+	P(Class=1)=0.5041322314049587 (304/604)
+	label_0_probability = 3.358456719477449e-11
+	label_1_probability = 8.854807627905562e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49834983498349833 (301/605)
+	P(Class=1)=0.5033003300330033 (304/605)
+	label_0_probability = 1.5372039752884045e-06
+	label_1_probability = 7.389526692607922e-07
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.49917627677100496 (302/606)
+	P(Class=1)=0.5024711696869851 (304/606)
+	label_0_probability = 6.717770869088377e-15
+	label_1_probability = 2.0457440277777425e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5 (303/607)
+	P(Class=1)=0.5016447368421053 (304/607)
+	label_0_probability = 1.9877740907936503e-12
+	label_1_probability = 7.929828925840475e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5008210180623974 (304/608)
+	P(Class=1)=0.5008210180623974 (304/608)
+	label_0_probability = 8.608585919988037e-09
+	label_1_probability = 2.6829776314273785e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5016393442622951 (305/609)
+	P(Class=1)=0.5 (304/609)
+	label_0_probability = 1.6020491709156483e-09
+	label_1_probability = 8.870049509888027e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.502454991816694 (306/610)
+	P(Class=1)=0.49918166939443537 (304/610)
+	label_0_probability = 1.2856940934603303e-10
+	label_1_probability = 1.4710186451685044e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5032679738562091 (307/611)
+	P(Class=1)=0.49836601307189543 (304/611)
+	label_0_probability = 3.1930832371759916e-09
+	label_1_probability = 8.84106241998644e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5040783034257749 (308/612)
+	P(Class=1)=0.49755301794453505 (304/612)
+	label_0_probability = 3.1823763266681143e-09
+	label_1_probability = 8.826639805924457e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.504885993485342 (309/613)
+	P(Class=1)=0.496742671009772 (304/613)
+	label_0_probability = 4.205296539601574e-10
+	label_1_probability = 1.8010927352451562e-09
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5056910569105691 (310/614)
+	P(Class=1)=0.4959349593495935 (304/614)
+	label_0_probability = 5.319578435148483e-10
+	label_1_probability = 1.3327270207721508e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5064935064935064 (311/615)
+	P(Class=1)=0.49512987012987014 (304/615)
+	label_0_probability = 2.3078533151931873e-07
+	label_1_probability = 1.6173486169047515e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5072933549432739 (312/616)
+	P(Class=1)=0.49432739059967584 (304/616)
+	label_0_probability = 1.0434121563323113e-08
+	label_1_probability = 2.648190239123624e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5080906148867314 (313/617)
+	P(Class=1)=0.4935275080906149 (304/617)
+	label_0_probability = 4.861686732146373e-07
+	label_1_probability = 8.063910682030407e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5088852988691438 (314/618)
+	P(Class=1)=0.4927302100161551 (304/618)
+	label_0_probability = 4.557409229840424e-11
+	label_1_probability = 9.980395410114481e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5096774193548387 (315/619)
+	P(Class=1)=0.49193548387096775 (304/619)
+	label_0_probability = 9.698642862358936e-12
+	label_1_probability = 1.4496651487063802e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5104669887278583 (316/620)
+	P(Class=1)=0.49114331723027377 (304/620)
+	label_0_probability = 3.2532324266493955e-13
+	label_1_probability = 8.541251917033945e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5112540192926045 (317/621)
+	P(Class=1)=0.4903536977491961 (304/621)
+	label_0_probability = 7.05349518564506e-10
+	label_1_probability = 1.4450038459774205e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5120385232744783 (318/622)
+	P(Class=1)=0.4895666131621188 (304/622)
+	label_0_probability = 1.3058962088511672e-17
+	label_1_probability = 8.769657588279347e-20
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5128205128205128 (319/623)
+	P(Class=1)=0.48878205128205127 (304/623)
+	label_0_probability = 4.741373462568135e-12
+	label_1_probability = 1.212220585686742e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5136 (320/624)
+	P(Class=1)=0.488 (304/624)
+	label_0_probability = 3.7932874229523214e-16
+	label_1_probability = 4.622072819979813e-19
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5143769968051118 (321/625)
+	P(Class=1)=0.48722044728434505 (304/625)
+	label_0_probability = 3.38715360764896e-13
+	label_1_probability = 4.707444572345643e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5151515151515151 (322/626)
+	P(Class=1)=0.4864433811802233 (304/626)
+	label_0_probability = 1.562254519867792e-14
+	label_1_probability = 2.5293136181973837e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5159235668789809 (323/627)
+	P(Class=1)=0.4856687898089172 (304/627)
+	label_0_probability = 1.3958871785660322e-09
+	label_1_probability = 8.615812422024977e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5166931637519873 (324/628)
+	P(Class=1)=0.4848966613672496 (304/628)
+	label_0_probability = 1.2196582666719624e-14
+	label_1_probability = 1.4007672993778246e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5174603174603175 (325/629)
+	P(Class=1)=0.48412698412698413 (304/629)
+	label_0_probability = 1.7015217195126095e-11
+	label_1_probability = 2.0106764032076154e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5182250396196514 (326/630)
+	P(Class=1)=0.48335974643423135 (304/630)
+	label_0_probability = 3.3921769514851945e-11
+	label_1_probability = 2.811426152103966e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5189873417721519 (327/631)
+	P(Class=1)=0.4825949367088608 (304/631)
+	label_0_probability = 8.298912349305291e-12
+	label_1_probability = 2.8069776930025376e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5197472353870458 (328/632)
+	P(Class=1)=0.48183254344391785 (304/632)
+	label_0_probability = 6.785238142527522e-13
+	label_1_probability = 8.492555421406494e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5205047318611987 (329/633)
+	P(Class=1)=0.4810725552050473 (304/633)
+	label_0_probability = 9.933763953187123e-14
+	label_1_probability = 9.174173356661352e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.521259842519685 (330/634)
+	P(Class=1)=0.48031496062992124 (304/634)
+	label_0_probability = 9.021798769904566e-13
+	label_1_probability = 1.4014070198767535e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5220125786163522 (331/635)
+	P(Class=1)=0.47955974842767296 (304/635)
+	label_0_probability = 2.324556314019176e-11
+	label_1_probability = 8.977649622222659e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5227629513343799 (332/636)
+	P(Class=1)=0.478806907378336 (304/636)
+	label_0_probability = 7.82537023396157e-12
+	label_1_probability = 8.409982126974668e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5235109717868338 (333/637)
+	P(Class=1)=0.4780564263322884 (304/637)
+	label_0_probability = 5.3871470071710865e-11
+	label_1_probability = 1.9112362325064206e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5242566510172144 (334/638)
+	P(Class=1)=0.47730829420970267 (304/638)
+	label_0_probability = 7.976052500356678e-14
+	label_1_probability = 3.707955521569873e-15
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.525 (335/639)
+	P(Class=1)=0.4765625 (304/639)
+	label_0_probability = 1.434032482958839e-10
+	label_1_probability = 9.530263422271727e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5257410296411856 (336/640)
+	P(Class=1)=0.47581903276131043 (304/640)
+	label_0_probability = 7.887897142466077e-17
+	label_1_probability = 2.7224684596961797e-19
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5264797507788161 (337/641)
+	P(Class=1)=0.4750778816199377 (304/641)
+	label_0_probability = 2.7838311755319677e-12
+	label_1_probability = 7.022735859042808e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5272161741835147 (338/642)
+	P(Class=1)=0.47433903576982894 (304/642)
+	label_0_probability = 4.7070486013253495e-15
+	label_1_probability = 5.160570437219129e-16
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5279503105590062 (339/643)
+	P(Class=1)=0.47360248447204967 (304/643)
+	label_0_probability = 1.1775083913874204e-13
+	label_1_probability = 1.5275256859076528e-13
+	Actual label = 0, predicted label = 1
+
+
+Testing completed with accuracy is:  = 93.48%
+=======================================================================================
+Testing on test data
+Preprocesing data...
+Testing model accuracy.............
+	P(Class=0)=0.5286821705426357 (340/644)
+	P(Class=1)=0.4728682170542636 (304/644)
+	label_0_probability = 7.076755571621354e-10
+	label_1_probability = 4.33529836446682e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5278637770897833 (340/645)
+	P(Class=1)=0.47368421052631576 (305/645)
+	label_0_probability = 7.46174911767703e-10
+	label_1_probability = 5.2784416283152386e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.527047913446677 (340/646)
+	P(Class=1)=0.47449768160741884 (306/646)
+	label_0_probability = 6.990025805709563e-14
+	label_1_probability = 7.819824212553537e-14
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5277777777777778 (341/647)
+	P(Class=1)=0.4737654320987654 (306/647)
+	label_0_probability = 1.70191175579844e-05
+	label_1_probability = 2.3696708945906512e-05
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5269645608628659 (341/648)
+	P(Class=1)=0.4745762711864407 (307/648)
+	label_0_probability = 6.288822900298048e-12
+	label_1_probability = 2.9339334292687057e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5276923076923077 (342/649)
+	P(Class=1)=0.47384615384615386 (307/649)
+	label_0_probability = 3.619809977191128e-15
+	label_1_probability = 6.2045516831722625e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5268817204301075 (342/650)
+	P(Class=1)=0.47465437788018433 (308/650)
+	label_0_probability = 1.0249710789634074e-10
+	label_1_probability = 2.1680787272565472e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5260736196319018 (342/651)
+	P(Class=1)=0.4754601226993865 (309/651)
+	label_0_probability = 4.923277120470944e-08
+	label_1_probability = 8.733968238230403e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5252679938744257 (342/652)
+	P(Class=1)=0.4762633996937213 (310/652)
+	label_0_probability = 5.736049755977167e-08
+	label_1_probability = 3.104481503485702e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5244648318042814 (342/653)
+	P(Class=1)=0.47706422018348627 (311/653)
+	label_0_probability = 4.816217153229465e-12
+	label_1_probability = 7.34767072024507e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5236641221374045 (342/654)
+	P(Class=1)=0.4778625954198473 (312/654)
+	label_0_probability = 9.795675392775234e-08
+	label_1_probability = 2.281919837607926e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.524390243902439 (343/655)
+	P(Class=1)=0.4771341463414634 (312/655)
+	label_0_probability = 7.8551170624911e-12
+	label_1_probability = 9.852611738390087e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5235920852359208 (343/656)
+	P(Class=1)=0.4779299847792998 (313/656)
+	label_0_probability = 2.4748523232714156e-07
+	label_1_probability = 3.7957235761188433e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5227963525835866 (343/657)
+	P(Class=1)=0.4787234042553192 (314/657)
+	label_0_probability = 1.516678699856153e-11
+	label_1_probability = 3.2428692860406974e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5220030349013657 (343/658)
+	P(Class=1)=0.4795144157814871 (315/658)
+	label_0_probability = 6.627820149061537e-15
+	label_1_probability = 2.07185978639994e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5212121212121212 (343/659)
+	P(Class=1)=0.4803030303030303 (316/659)
+	label_0_probability = 9.822978447086417e-11
+	label_1_probability = 1.5976301817079818e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5204236006051437 (343/660)
+	P(Class=1)=0.481089258698941 (317/660)
+	label_0_probability = 6.425139274745611e-12
+	label_1_probability = 1.148502226342081e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5196374622356495 (343/661)
+	P(Class=1)=0.4818731117824773 (318/661)
+	label_0_probability = 1.5972062048805202e-07
+	label_1_probability = 8.070688385822381e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5203619909502263 (344/662)
+	P(Class=1)=0.48114630467571645 (318/662)
+	label_0_probability = 1.616414623078527e-16
+	label_1_probability = 2.0994987601240277e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5195783132530121 (344/663)
+	P(Class=1)=0.4819277108433735 (319/663)
+	label_0_probability = 7.108730614373691e-12
+	label_1_probability = 3.2887419570540644e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.518796992481203 (344/664)
+	P(Class=1)=0.48270676691729325 (320/664)
+	label_0_probability = 4.4213270457863845e-11
+	label_1_probability = 4.394349061752352e-11
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.5180180180180181 (344/665)
+	P(Class=1)=0.48348348348348347 (321/665)
+	label_0_probability = 1.667089649812768e-05
+	label_1_probability = 2.4086789031886705e-05
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5187406296851574 (345/666)
+	P(Class=1)=0.4827586206896552 (321/666)
+	label_0_probability = 1.4047223580803196e-10
+	label_1_probability = 2.5610775593065353e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5179640718562875 (345/667)
+	P(Class=1)=0.48353293413173654 (322/667)
+	label_0_probability = 8.493996172718203e-05
+	label_1_probability = 8.021877398052197e-06
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5186846038863976 (346/668)
+	P(Class=1)=0.4828101644245142 (322/668)
+	label_0_probability = 2.7309009295416537e-13
+	label_1_probability = 8.19421344759279e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5194029850746269 (347/669)
+	P(Class=1)=0.48208955223880595 (322/669)
+	label_0_probability = 1.0987923212299262e-08
+	label_1_probability = 6.652108495198654e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.518628912071535 (347/670)
+	P(Class=1)=0.4828614008941878 (323/670)
+	label_0_probability = 4.0036571903938396e-12
+	label_1_probability = 5.712575890478472e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5178571428571429 (347/671)
+	P(Class=1)=0.4836309523809524 (324/671)
+	label_0_probability = 1.8338620572022845e-11
+	label_1_probability = 8.25911170385358e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5170876671619614 (347/672)
+	P(Class=1)=0.48439821693907875 (325/672)
+	label_0_probability = 0.005831741219739322
+	label_1_probability = 0.0026151013539442974
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5178041543026706 (348/673)
+	P(Class=1)=0.4836795252225519 (325/673)
+	label_0_probability = 5.11464063361564e-05
+	label_1_probability = 8.00988153867813e-06
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5185185185185185 (349/674)
+	P(Class=1)=0.482962962962963 (325/674)
+	label_0_probability = 5.74494053019982e-12
+	label_1_probability = 2.1753873680158344e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5177514792899408 (349/675)
+	P(Class=1)=0.48372781065088755 (326/675)
+	label_0_probability = 6.054365792256202e-06
+	label_1_probability = 5.173420600754867e-07
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.518463810930576 (350/676)
+	P(Class=1)=0.48301329394387 (326/676)
+	label_0_probability = 1.0475434899815382e-12
+	label_1_probability = 3.964989997633398e-14
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5191740412979351 (351/677)
+	P(Class=1)=0.4823008849557522 (326/677)
+	label_0_probability = 5.373580130104335e-13
+	label_1_probability = 5.893753316214668e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5184094256259205 (351/678)
+	P(Class=1)=0.48306332842415317 (327/678)
+	label_0_probability = 7.558005822317043e-07
+	label_1_probability = 0.0003345735475551228
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5176470588235295 (351/679)
+	P(Class=1)=0.4838235294117647 (328/679)
+	label_0_probability = 0.005985992776334889
+	label_1_probability = 0.0026184206890061375
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5183553597650514 (352/680)
+	P(Class=1)=0.4831130690161527 (328/680)
+	label_0_probability = 1.8907400389711314e-10
+	label_1_probability = 1.9605303515996854e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5175953079178885 (352/681)
+	P(Class=1)=0.4838709677419355 (329/681)
+	label_0_probability = 0.00026823384067070627
+	label_1_probability = 0.0035320082089998037
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5168374816983895 (352/682)
+	P(Class=1)=0.48462664714494874 (330/682)
+	label_0_probability = 1.1761851726329866e-12
+	label_1_probability = 6.0756522499094326e-12
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5160818713450293 (352/683)
+	P(Class=1)=0.4853801169590643 (331/683)
+	label_0_probability = 1.8412829701194378e-12
+	label_1_probability = 9.062613414191727e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5153284671532846 (352/684)
+	P(Class=1)=0.48613138686131385 (332/684)
+	label_0_probability = 3.768410672656441e-09
+	label_1_probability = 6.582908320454821e-10
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5160349854227405 (353/685)
+	P(Class=1)=0.48542274052478135 (332/685)
+	label_0_probability = 0.0002677406297444989
+	label_1_probability = 0.00013407099634241249
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5167394468704513 (354/686)
+	P(Class=1)=0.4847161572052402 (332/686)
+	label_0_probability = 1.3985755944494253e-06
+	label_1_probability = 1.2143369939015181e-07
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5174418604651163 (355/687)
+	P(Class=1)=0.48401162790697677 (332/687)
+	label_0_probability = 6.946772814380862e-15
+	label_1_probability = 1.408575714747832e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5166908563134979 (355/688)
+	P(Class=1)=0.4847605224963715 (333/688)
+	label_0_probability = 2.1810156075745108e-15
+	label_1_probability = 4.7349230678942435e-14
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5159420289855072 (355/689)
+	P(Class=1)=0.4855072463768116 (334/689)
+	label_0_probability = 8.762494576593135e-05
+	label_1_probability = 4.001873367161324e-05
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.516642547033285 (356/690)
+	P(Class=1)=0.48480463096960924 (334/690)
+	label_0_probability = 7.033927868130233e-06
+	label_1_probability = 2.1470710550797418e-07
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5173410404624278 (357/691)
+	P(Class=1)=0.4841040462427746 (334/691)
+	label_0_probability = 9.06395855813355e-11
+	label_1_probability = 9.278066998550535e-12
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.5165945165945166 (357/692)
+	P(Class=1)=0.48484848484848486 (335/692)
+	label_0_probability = 2.2284771016086548e-10
+	label_1_probability = 1.48720506015465e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.515850144092219 (357/693)
+	P(Class=1)=0.48559077809798273 (336/693)
+	label_0_probability = 2.473391351506352e-07
+	label_1_probability = 8.677058749043142e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5151079136690647 (357/694)
+	P(Class=1)=0.48633093525179855 (337/694)
+	label_0_probability = 4.294326353622906e-11
+	label_1_probability = 2.0507724975079143e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5158045977011494 (358/695)
+	P(Class=1)=0.48563218390804597 (337/695)
+	label_0_probability = 5.897091374662374e-12
+	label_1_probability = 4.289155730494558e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5150645624103299 (358/696)
+	P(Class=1)=0.48637015781922527 (338/696)
+	label_0_probability = 1.3580056886054375e-11
+	label_1_probability = 7.97167210003446e-11
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5157593123209169 (359/697)
+	P(Class=1)=0.48567335243553006 (338/697)
+	label_0_probability = 3.696739534642567e-09
+	label_1_probability = 2.9958407794347143e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5164520743919886 (360/698)
+	P(Class=1)=0.48497854077253216 (338/698)
+	label_0_probability = 2.3105768117938594e-12
+	label_1_probability = 1.473719402412414e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5171428571428571 (361/699)
+	P(Class=1)=0.48428571428571426 (338/699)
+	label_0_probability = 5.735267344907609e-12
+	label_1_probability = 4.333172284091118e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5164051355206848 (361/700)
+	P(Class=1)=0.48502139800285304 (339/700)
+	label_0_probability = 1.1631459295774939e-09
+	label_1_probability = 4.7973007861337846e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5156695156695157 (361/701)
+	P(Class=1)=0.48575498575498577 (340/701)
+	label_0_probability = 1.4489002080821717e-07
+	label_1_probability = 9.423445887236821e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5149359886201992 (361/702)
+	P(Class=1)=0.4864864864864865 (341/702)
+	label_0_probability = 1.4597802326855458e-10
+	label_1_probability = 8.828233560066657e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5142045454545454 (361/703)
+	P(Class=1)=0.4872159090909091 (342/703)
+	label_0_probability = 8.992515066423935e-08
+	label_1_probability = 2.44251458067658e-09
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5148936170212766 (362/704)
+	P(Class=1)=0.48652482269503544 (342/704)
+	label_0_probability = 1.0359043289266843e-07
+	label_1_probability = 5.6130093415773e-07
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5141643059490085 (362/705)
+	P(Class=1)=0.48725212464589235 (343/705)
+	label_0_probability = 2.6742113168688062e-08
+	label_1_probability = 5.838095678659621e-08
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5148514851485149 (363/706)
+	P(Class=1)=0.48656294200848654 (343/706)
+	label_0_probability = 1.739410847376773e-05
+	label_1_probability = 3.215774038012978e-05
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5141242937853108 (363/707)
+	P(Class=1)=0.4872881355932203 (344/707)
+	label_0_probability = 1.6392351583674575e-07
+	label_1_probability = 2.3647989602149698e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5148095909732017 (364/708)
+	P(Class=1)=0.48660084626234135 (344/708)
+	label_0_probability = 2.4111533654739176e-07
+	label_1_probability = 1.185064790785227e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5140845070422535 (364/709)
+	P(Class=1)=0.48732394366197185 (345/709)
+	label_0_probability = 1.2006912567874951e-09
+	label_1_probability = 1.9623374816243855e-08
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5147679324894515 (365/710)
+	P(Class=1)=0.4866385372714487 (345/710)
+	label_0_probability = 1.747708677684933e-09
+	label_1_probability = 6.455744722866588e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5140449438202247 (365/711)
+	P(Class=1)=0.48735955056179775 (346/711)
+	label_0_probability = 1.0242399986798962e-08
+	label_1_probability = 1.5705321795089882e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5133239831697055 (365/712)
+	P(Class=1)=0.48807854137447404 (347/712)
+	label_0_probability = 7.891237772788763e-10
+	label_1_probability = 3.1407914223808595e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5126050420168067 (365/713)
+	P(Class=1)=0.4887955182072829 (348/713)
+	label_0_probability = 1.665178771507034e-11
+	label_1_probability = 2.7902756492726786e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5118881118881119 (365/714)
+	P(Class=1)=0.48951048951048953 (349/714)
+	label_0_probability = 2.7217584863937377e-11
+	label_1_probability = 3.540408921847416e-13
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5125698324022346 (366/715)
+	P(Class=1)=0.4888268156424581 (349/715)
+	label_0_probability = 1.1667013980785766e-09
+	label_1_probability = 1.2244261379999842e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5118549511854951 (366/716)
+	P(Class=1)=0.4895397489539749 (350/716)
+	label_0_probability = 4.0948786471039166e-17
+	label_1_probability = 5.476579838635255e-15
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5111420612813371 (366/717)
+	P(Class=1)=0.49025069637883006 (351/717)
+	label_0_probability = 0.00014045754274096353
+	label_1_probability = 5.7984547337999664e-05
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5118219749652295 (367/718)
+	P(Class=1)=0.48956884561891517 (351/718)
+	label_0_probability = 1.070956589608899e-11
+	label_1_probability = 4.9618683696156924e-11
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5125 (368/719)
+	P(Class=1)=0.4888888888888889 (351/719)
+	label_0_probability = 8.627595831380681e-07
+	label_1_probability = 4.956298212938543e-07
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5131761442441054 (369/720)
+	P(Class=1)=0.4882108183079057 (351/720)
+	label_0_probability = 7.687452376641569e-13
+	label_1_probability = 4.905236247519472e-14
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.5124653739612188 (369/721)
+	P(Class=1)=0.4889196675900277 (352/721)
+	label_0_probability = 4.2567385385306474e-08
+	label_1_probability = 9.320856472542107e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5117565698478561 (369/722)
+	P(Class=1)=0.4896265560165975 (353/722)
+	label_0_probability = 3.105077380102111e-13
+	label_1_probability = 2.317560981172586e-09
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.511049723756906 (369/723)
+	P(Class=1)=0.4903314917127072 (354/723)
+	label_0_probability = 5.405332442866166e-09
+	label_1_probability = 3.5441505546474355e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5103448275862069 (369/724)
+	P(Class=1)=0.4910344827586207 (355/724)
+	label_0_probability = 1.931636680496831e-09
+	label_1_probability = 1.893367918749865e-08
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.509641873278237 (369/725)
+	P(Class=1)=0.49173553719008267 (356/725)
+	label_0_probability = 8.754979180529176e-05
+	label_1_probability = 1.6333311944423178e-05
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.5089408528198074 (369/726)
+	P(Class=1)=0.4924346629986245 (357/726)
+	label_0_probability = 0.0005023122044576645
+	label_1_probability = 0.0001832619364216173
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5096153846153846 (370/727)
+	P(Class=1)=0.49175824175824173 (357/727)
+	label_0_probability = 1.230352010747351e-07
+	label_1_probability = 4.4073603295285265e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5089163237311386 (370/728)
+	P(Class=1)=0.4924554183813443 (358/728)
+	label_0_probability = 7.494852138994283e-06
+	label_1_probability = 9.101495438037472e-05
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5082191780821917 (370/729)
+	P(Class=1)=0.4931506849315068 (359/729)
+	label_0_probability = 1.669546768814896e-11
+	label_1_probability = 1.538426697014933e-11
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5088919288645691 (371/730)
+	P(Class=1)=0.49247606019151846 (359/730)
+	label_0_probability = 8.781848423370441e-05
+	label_1_probability = 5.034807932648226e-05
+	Actual label = 1, predicted label = 0
+
+	P(Class=0)=0.5081967213114754 (371/731)
+	P(Class=1)=0.4931693989071038 (360/731)
+	label_0_probability = 1.0347691504164014e-17
+	label_1_probability = 8.775359732496305e-13
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5075034106412005 (371/732)
+	P(Class=1)=0.49386084583901774 (361/732)
+	label_0_probability = 5.23361802619603e-11
+	label_1_probability = 1.4924890311020656e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5068119891008175 (371/733)
+	P(Class=1)=0.494550408719346 (362/733)
+	label_0_probability = 1.0138548410192542e-12
+	label_1_probability = 1.7995095328046932e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5061224489795918 (371/734)
+	P(Class=1)=0.49523809523809526 (363/734)
+	label_0_probability = 7.41985462571539e-06
+	label_1_probability = 0.00023501535565590925
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5054347826086957 (371/735)
+	P(Class=1)=0.49592391304347827 (364/735)
+	label_0_probability = 5.177391301071712e-12
+	label_1_probability = 2.002163312709563e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5047489823609227 (371/736)
+	P(Class=1)=0.4966078697421981 (365/736)
+	label_0_probability = 1.7141895594216703e-12
+	label_1_probability = 8.472158410506099e-11
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5040650406504065 (371/737)
+	P(Class=1)=0.497289972899729 (366/737)
+	label_0_probability = 9.173613072261442e-12
+	label_1_probability = 1.2107585501162738e-11
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.5047361299052774 (372/738)
+	P(Class=1)=0.496617050067659 (366/738)
+	label_0_probability = 0.006417154838121472
+	label_1_probability = 0.0030404117666911097
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5054054054054054 (373/739)
+	P(Class=1)=0.49594594594594593 (366/739)
+	label_0_probability = 1.428625969846376e-06
+	label_1_probability = 2.2543066636039502e-08
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5060728744939271 (374/740)
+	P(Class=1)=0.49527665317139 (366/740)
+	label_0_probability = 5.794632885236967e-11
+	label_1_probability = 3.781708187346758e-10
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5053908355795148 (374/741)
+	P(Class=1)=0.49595687331536387 (367/741)
+	label_0_probability = 2.0162320687407956e-11
+	label_1_probability = 5.7006583614980394e-11
+	Actual label = 0, predicted label = 1
+
+	P(Class=0)=0.506056527590848 (375/742)
+	P(Class=1)=0.4952893674293405 (367/742)
+	label_0_probability = 3.73719347295691e-10
+	label_1_probability = 1.5275703161942515e-12
+	Actual label = 0, predicted label = 0
+
+	P(Class=0)=0.5067204301075269 (376/743)
+	P(Class=1)=0.4946236559139785 (367/743)
+	label_0_probability = 9.626164095284805e-09
+	label_1_probability = 8.320851889248549e-06
+	Actual label = 1, predicted label = 1
+
+	P(Class=0)=0.5060402684563758 (376/744)
+	P(Class=1)=0.49530201342281877 (368/744)
+	label_0_probability = 1.8963343096578875e-06
+	label_1_probability = 1.134057102814252e-07
+	Actual label = 0, predicted label = 0
+
+
+Testing completed with accuracy is:  = 87.13%

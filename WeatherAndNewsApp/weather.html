@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Weather</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" >
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <script src="https://code.jquery.com/jquery-3.1.1.js"
+            integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+            crossorigin="anonymous"></script>
+    <script src="main.js"></script>
+    <nav>
+        <a href="index.html" class="newWeatherLink">
+        <i class="fa fa-globe" aria-hidden="true"></i> NEWS
+        
+      </a>  
+      <a href="weather.html" class="newWeatherLink">
+        <i class="fa fa-thermometer-empty" aria-hidden="true"> </i>  WEATHER
+      </a>
+    </nav>
+    <main>
+      <span class="anchor2"></span>
+      <div id = "days">
+        <button id="Mon" class="button"></button>
+        <button id="Tues" class="button"></button>
+        <button id="Wes" class="button"></button>
+        <button id="Thur" class="button"></button>
+        <button id="Frid" class="button"></button>
+        <button id="Sat" class="button"></button>
+        <button id="Sun" class="button"></button>
+        <select class="button" id="dayOption" onchange="showDays()">
+          <option>days</option> 
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>  
+          <option value="6">6</option>
+          <option value="7">7</option> 
+        </select>
+      </div>
+      <div id = "content2" class ="contentClass"> </div>
+       <div id = "reload"></div>
+    </main>
+  </body>
+</html>
